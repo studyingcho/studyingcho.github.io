@@ -15,6 +15,8 @@ Special Relativity could be said to be special spacetime theory, which deals wit
 
 ### 3. What is Lorentz Symmetry?
 
+Further, if we use a notion of Lorentz symmetry, the concept of Special Relativity is much clear. As previously said, special relativity is about the observation of inertial observers on flat spacetime. Then, Lorentz symmetry could be a guiding principle on how the observations should be. In this introduction we talk about meaning of symmetry first.
+
 In physics, Symmetry has special meanings. Symmetry needs two ingredients, one is called operation and one is called object. If we take an operation on some object and the object retains a same form after the operation, we say object is symmetric about that operation.
 
 <center><img src="snowflake.jpg" width="20%" alt="Snowflake"></center>
@@ -25,6 +27,10 @@ Lorentz Symmetry states that physical law or constants should be symmetric about
 
 ### 4. What is Galilean Symmetry?
 
-Actually, the idea that physical law should be symmetric about inter-change of inertial observer was present before Einstein, back to Newtonian mechanics. The symmetry of physical law about inter-change of inertial observer before special realtivity was called Galilean symmetry. In other words,  Galilean symmmetry and Lorentz symmetry share the same idea that physical law should be symmetric about inter-change of inertial observer. However, the difference between Galilean symmmetry and Lorentz symmetry is their view point on how differently two inertial observers observes distance and time.
+Actually, the idea that physical law should be symmetric about inter-change of inertial observer was present before Einstein, back to Newtonian mechanics. The idea of symmetry of physical law about inter-change of inertial observer before special realtivity is called Galilean symmetry. In other words,  Galilean symmmetry and Lorentz symmetry share the same idea that physical law should be symmetric about inter-change of inertial observer. However, the difference between Galilean symmmetry and Lorentz symmetry is their view point on how differently two inertial observers observes distance and time.
 
-Galilean symmetry assumes absoluteness of time, i.e., time is not relative for an inerital observer (time is not depending on observers) but absolute for inertial observerse. Then Galilean symmetry assumes distance from the observer to an object is relative for the observer, not absolute for an observer. However, Galilean symmetry kicks out speed of light from physical constants. Speed of light is not absolute but relative to observers. That is the problem of Galilean symmetry and what should be kicked out is not speed of light but Galilean symmetry. 
+Galilean symmetry assumes absoluteness of time, i.e., time is not relative for an inerital observer (time is not depending on observers) but absolute for inertial observerse. Then Galilean symmetry assumes distance from the observer to an object is relat
+
+Actually, the idea that physical law should be symmetric about inter-change of inertial observer was present before Einstein, back to Newtonian mechanics. The idea of symmetry of physical law about inter-change of inertial observer before special realtivity is called Galilean symmetry. In other words,  Galilean symmmetry and Lorentz symmetry share the same idea that physical law should be symmetric about inter-change of inertial observer. However, the difference between Galilean symmmetry and Lorentz symmetry is their view point on how differently two inertial observers observes distance and time.
+
+Galilean symmetry assumes absoluteness of time, i.e., time is not relative for an inerital observer (time is not depeive for the observer, not absolute for an observer. However, Galilean symmetry kicks out speed of light from physical constants. In Galilean symmetry, Speed of light is not absolute but relative to observers. That is the problem of Galilean symmetry and what should be kicked out is not speed of light but Galilean symmetry. 
