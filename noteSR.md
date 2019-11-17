@@ -6,5 +6,10 @@ Special Relativity is basically a theory about space-time. It especially deals w
 
 ## 2. What is Lorentz Symmetry?
 
-In physics, Symmetry has special meanings. Symmetry needs two ingredients, one is called operation and one is called object. If we take an operation on some object and object retains same form after the operation, we say object is symmetric about that object.
+In physics, Symmetry has special meanings. Symmetry needs two ingredients, one is called operation and one is called object. If we take an operation on some object and the object retains a same form after the operation, we say object is symmetric about that operation.
 
+[Snowflake](snowflake.jpg)
+
+If we have a vertical line passing through center of snowflake and take an inversing operation on the snowflake, then snowflake still retains a same form. We say snowflake is symmetric about an inversion about a vertical line. Also as you can see, snowflake is symmetric about 60 degree rotation.
+
+Lorentz symmetry states that physical law or constants should be symmetric about inertial observer. One example is speed of light, if we meausre the speed of light by one inertial observer, then take an operation, which changes the observer to other inertial observer, and meausre the speed of light by the other observer, then the speed of light should be same.
