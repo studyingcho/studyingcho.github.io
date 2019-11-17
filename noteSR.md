@@ -32,3 +32,7 @@ Actually, the idea that physical law should be symmetric about inter-change of i
 Galilean symmetry assumes absoluteness of time, i.e., time is not relative for an inerital observer (time is not depending on observers) but absolute for inertial observerse. Then Galilean symmetry assumes distance from the observer to an object is relat
 
 ## II. Distance and Time
+
+### 1. Observed Time difference
+
+### 2. Observed Distance difference
