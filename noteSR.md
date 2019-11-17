@@ -6,7 +6,7 @@ Special Relativity is basically a theory about space-time. It especially deals w
 
 ## 2. What is Lorentz Symmetry?
 
-In physics, Symmetry has special meanings. Symmetry needs two ingredients, one is called operation and one is called object. If we take an operation on some object and the object retains a same form after the operation, we say object is symmetric about that operation.
+The notion of special spacetime is not all ingredients of Special Relativity recipe. Special relativity needs one more ingredients, Lorentz Symmetry. In physics, Symmetry has special meanings. Symmetry needs two ingredients, one is called operation and one is called object. If we take an operation on some object and the object retains a same form after the operation, we say object is symmetric about that operation.
 
 <center><img src="snowflake.jpg" width="20%" alt="Snowflake"></center>
 
@@ -16,7 +16,11 @@ Lorentz Symmetry states that physical law or constants should be symmetric about
 
 ## 3. What is Inertial Observer?
 
-Inertial observer means observers which law of inertia is valid for his observation. You may heard about law of inertia, rest object continues to be rest and moving object with certain velocity continues to move at same velocity if there is no external force acting on it. Let's assume there is one inertial observer. Then any observer moving with a constant velocity with respect to the first inertial observer should be an inertial observer. An observer who decelerates or accelerates from the first observer, i.e., whose velocity is changing, is non-inertial observer.
+Inertial observer means that these observers observe the law of inertia is valid. You may heard about law of inertia, rest object continues to be rest and moving object with certain velocity continues to move at same velocity if there is no external force acting on it. Let's assume there is one inertial observer. Then any observer moving with a constant velocity with respect to the first inertial observer should be an inertial observer. An observer who decelerates or accelerates from the first observer, i.e., whose velocity is changing, is non-inertial observer.
+
+In Special Relativity, physical laws are assumed to be symmetric about inertial observers. In General Relativity, physical laws are assumed to be symmetric about any observers. So Special Relativity could be said to be special spacetime theory, which deals with special spacetime (flat spacetime) with special observers (inertial observers). Then General Relativity could be said to be general spacetime theory, which deals with general spacetime with general observers.
+
+## 4. What is Inertial Observer?
 
 Actually, the idea that physical law should be symmetric about inter-change of inertial observer was present before Einstein, back to Newtonian mechanics. The symmetry of physical law about inter-change of inertial observer before special realtivity was called Galilean symmetry. In other words,  Galilean symmmetry and Lorentz symmetry share the same idea that physical law should be symmetric about inter-change of inertial observer. However, the difference between Galilean symmmetry and Lorentz symmetry is their view point on how differently two inertial observers observes distance and time.
 
