@@ -6,4 +6,5 @@ Special Relativity is basically a theory about space-time. It especially deals w
 
 ## 2. What is Lorentz Symmetry?
 
+In physics, Symmetry has special meanings. Symmetry needs two ingredients, one is called operation and one is called object. If we take an operation on some object and object retains same form after the operation, we say object is symmetric about that object.
 
