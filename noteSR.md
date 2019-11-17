@@ -12,6 +12,8 @@ In physics, Symmetry has special meanings. Symmetry needs two ingredients, one i
 
 If we have a vertical line passing through center of snowflake and take an inversing operation on the snowflake, then snowflake still retains a same form. We say snowflake is symmetric about an inversion about a vertical line. Also as you can see, snowflake is symmetric about 60 degree rotation.
 
-Lorentz Symmetry states that physical law or constants should be symmetric about inertial observer. One example is speed of light. Lorentz Symmetry states that if we meausre the speed of light by one inertial observer, then take an operation, which changes the observer to other inertial observer, and meausre the speed of light by the other observer, then the speed of light should be same. The speed of light should be symmetric about change between inertial observer.
+Lorentz Symmetry states that physical law or constants should be symmetric about inertial observer. One example is speed of light. Lorentz Symmetry states that if we meausre the speed of light by one inertial observer, then take an operation, which changes the observer to other inertial observer, and meausre the speed of light by the other observer, then the speed of light should be same. The speed of light should be symmetric about inter-change of inertial observers.
 
 ## 3. What is Inertial Observer?
+
+Inertial observer means observers which law of inertia is valid for his observation. You may heard about law of inertia, rest object continues to be rest and moving object with certain velocity continues to move at his velocity if there is no force acting on it.
