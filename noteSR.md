@@ -21,7 +21,7 @@ Inertial observer means that these observers observe the law of inertia is valid
 
 In Special Relativity, physical laws are assumed to be symmetric about inertial observers. To say exactly, physical laws in flat spacetime are assumed to be symmetric about inertial observers. In General Relativity, physical laws are assumed to be symmetric about any observers. Also, in General Relativity, physical laws in any spacetime are assumed to be symmetric about any observers. So Special Relativity could be said to be special spacetime theory, which deals with special spacetime (flat spacetime) with special observers (inertial observers). Then General Relativity could be said to be general spacetime theory, which deals with general spacetime with general observers.
 
-4. What is Galilean Symmetry?
+### 4. What is Galilean Symmetry?
 
 Actually, the idea that physical law should be symmetric about inter-change of inertial observer was present before Einstein, back to Newtonian mechanics. The symmetry of physical law about inter-change of inertial observer before special realtivity was called Galilean symmetry. In other words,  Galilean symmmetry and Lorentz symmetry share the same idea that physical law should be symmetric about inter-change of inertial observer. However, the difference between Galilean symmmetry and Lorentz symmetry is their view point on how differently two inertial observers observes distance and time.
 
