@@ -29,7 +29,7 @@ Lorentz Symmetry states that physical law or constants should be symmetric about
 
 Actually, the idea that physical law should be symmetric about inter-change of inertial observer was present before Einstein, back to Newtonian mechanics. The idea of symmetry of physical law about inter-change of inertial observer before special realtivity is called Galilean symmetry. In other words,  Galilean symmmetry and Lorentz symmetry share the same idea that physical law should be symmetric about inter-change of inertial observer. However, the difference between Galilean symmmetry and Lorentz symmetry is their view point on how differently two inertial observers observes distance and time.
 
-Galilean symmetry assumes absoluteness of time, i.e., time is not relative for an inerital observer (time is not depending on observers) but absolute for inertial observerse. Then Galilean symmetry assumes distance from the observer to an object is relat
+Galilean symmetry assumes absoluteness of time, i.e., time is not relative for an inerital observer (time is not depending on observers) but absolute for inertial observerss. Then Galilean symmetry assumes distance from the observer to an object is relative for an inertial observer and not absolute for observers. However, Galilean symmetry kicks out speed of light from physical constants. In Galilean symmetry, Speed of light is not absolute but relative to observers. That is the problem of Galilean symmetry and what should be kicked out is not speed of light but Galilean symmetry. 
 
 ## II. Distance and Time
 
