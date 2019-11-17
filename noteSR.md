@@ -8,7 +8,7 @@ Special Relativity is basically a theory about space-time. It especially deals w
 
 In physics, Symmetry has special meanings. Symmetry needs two ingredients, one is called operation and one is called object. If we take an operation on some object and the object retains a same form after the operation, we say object is symmetric about that operation.
 
-<img src="snowflake.jpg" width="100%" height="100%" alt="Snowflake"></img>
+<center><img src="snowflake.jpg" width="30%" height="20%" alt="Snowflake"></img></center>
 
 If we have a vertical line passing through center of snowflake and take an inversing operation on the snowflake, then snowflake still retains a same form. We say snowflake is symmetric about an inversion about a vertical line. Also as you can see, snowflake is symmetric about 60 degree rotation.
 
