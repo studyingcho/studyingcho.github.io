@@ -16,4 +16,8 @@ Lorentz Symmetry states that physical law or constants should be symmetric about
 
 ## 3. What is Inertial Observer?
 
-Inertial observer means observers which law of inertia is valid for his observation. You may heard about law of inertia, rest object continues to be rest and moving object with certain velocity continues to move at his velocity if there is no force acting on it.
+Inertial observer means observers which law of inertia is valid for his observation. You may heard about law of inertia, rest object continues to be rest and moving object with certain velocity continues to move at same velocity if there is no external force acting on it. Let's assume there is one inertial observer. Then any observer moving with a constant velocity with respect to the first inertial observer should be an inertial observer. An observer who decelerates or accelerates from the first observer, i.e., whose velocity is changing, is non-inertial observer.
+
+Actually, the idea that physical law should be symmetric about inter-change of inertial observer was present before Einstein, back to Newtonian mechanics. The symmetry of physical law about inter-change of inertial observer before special realtivity was called Galilean symmetry. In other words,  Galilean symmmetry and Lorentz symmetry share the same idea that physical law should be symmetric about inter-change of inertial observer. However, the difference between Galilean symmmetry and Lorentz symmetry is their view point on how differently two inertial observers observes distance and time.
+
+Galilean symmetry assumes absoluteness of time, i.e., time is not relative for an inerital observer (time is not depending on observers) but absolute for inertial observerse. Then Galilean symmetry assumes distance from the observer to an object is relative for the observer, not absolute for an observer.
