@@ -35,7 +35,7 @@ Galilean symmetry assumes absoluteness of time, i.e., time is not relative for a
 
 ### 1. Observed Time difference
 
-Let us assume that there are two inertial observers and their relative velocity is \( v \). Also assume that two observers were initially at same position. Then sometime later, observer A observes that time \( \Delta t\) passed from the initial time. And he send the light to the observer B.
+Let us assume that there are two inertial observers and their relative velocity is $$ v $$. Also assume that two observers were initially at same position. Then sometime later, observer A observes that time $$\Delta t$$ passed from the initial time. And he send the light to the observer B.
 ### 2. Observed Distance difference
 
 ### 3. Observed Time and Distance difference
