@@ -46,7 +46,7 @@ $$v\left(\frac{1}{\alpha}\Delta t+\Delta t'\right)=v\left(\alpha \Delta t - \Del
 
 Here $$c$$ denotes speed of light. So $$\Delta t'$$ is 
 
-$$\Delta t'=\frac{1}{c-v}v\left(\frac{1}{\alpha}\Delta t\right)=\frac{1}{c+v}v\alpha\Delta t$$
+$$\Delta t'=\frac{1}{c-v}\left(v\left(\frac{1}{\alpha}\Delta t\right)\right)=\frac{1}{c+v}(v(\alpha\Delta t))$$
 
 Then $$\alpha$$ is
 
