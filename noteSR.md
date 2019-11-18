@@ -7,9 +7,9 @@ Special relativity is basically a theory about space-time. It especially deals w
 
 ### 2. What is Inertial Observer?
 
-The notion of flat spacetime is not the all ingredients of special relativity recipe. Special relativity needs one more ingredients, observers. Flat spacetime should be observed, and the observation is what special relativity deals with. And special relativity usually let the scope down to special observers, called inertial observers.
+The notion of flat spacetime is not the all ingredients of special relativity recipe. Special relativity needs one more ingredient, observers. Flat spacetime should be observed, and the observation is what special relativity deals with. And special relativity usually let the scope down to special observers, called inertial observers.
 
-Inertial observer means special observers who observe the the law of inertia to be valid. You may heard about the law of inertia, rest object continues to be rest and moving object with certain velocity continues to move at the same velocity if there is no external force acting on it. Let's assume there is one inertial observer. Then any observer moving with a constant velocity with respect to the first inertial observer should be an inertial observer. An observer who decelerates or accelerates with respect to the first observer, i.e., whose velocity is changing, is non-inertial observer. And these non-inertial observers have an observation that deviates from the law of inertia.
+Inertial observer means a special observer who observes the the law of inertia to be valid. You may heard about the law of inertia, rest object continues to be rest and moving object with certain velocity continues to move at the same velocity if there is no external force acting on it. Let's assume there is one inertial observer. Then any observer moving with a constant velocity with respect to the first observer should be an inertial observer. An observer who decelerates or accelerates with respect to the first observer, i.e., whose velocity is changing, is non-inertial observer. And these non-inertial observers have an observation that deviates from the law of inertia.
 
 Special relativity could be said to be a special spacetime theory, which deals with special spacetime (flat spacetime) with special observers (inertial observers). On the other hand, general relativity could be said to be a general spacetime theory, which deals with general spacetime with general observers. In other words, flat spacetime (special) is observed by inertial observers (special), and this observation is what special relativity deals with. Flat or curved spacetime (general) is observed by inertial or non-inertial observers (general) and this observation is what general realtivity deals with.
 
@@ -21,7 +21,7 @@ In physics, Symmetry has special meanings. Symmetry needs two ingredients, one i
 
 <center><img src="snowflake.jpg" width="20%" alt="Snowflake"></center>
 
-If we have a vertical line passing through center of snowflake and take an inversing operation on the snowflake about the vertical line, then snowflake still retains a same form. We say snowflake is symmetric about an inversion about a vertical line. Also as you can see, snowflake is symmetric about 60 degree rotation.
+If we have a vertical line passing through the center of snowflake and take an inversing operation on the snowflake about the vertical line, then snowflake still retains a same form. We say snowflake is symmetric about an inversion about a vertical line. Also as you can see, snowflake is symmetric about 60 degree rotation.
 
 Lorentz Symmetry states that physical law or constants should be symmetric about change between inertial observers. One example is speed of light. Lorentz Symmetry states that if we meausre the speed of light by one inertial observer, then take an operation, which changes the observer to other inertial observer, and meausre the speed of light by the other observer, then the speed of light should be same. The speed of light should be symmetric about inter-change of inertial observers.
 
@@ -35,7 +35,10 @@ Galilean symmetry assumes absoluteness of time, i.e., time is not relative for a
 
 ### 1. Observed Time difference
 
-Let us assume that there are two inertial observers and their relative velocity is $$ v $$. Also assume that two observers were initially at same position. Then sometime later, observer A observes that time $$\Delta t$$ passed from the initial time. And he send the light to the observer B.
+Let us assume that there are two inertial observers and their relative velocity is $$v$$. Also assume that two observers were initially at same position and at the initial instant they set the clock to show $$t=0$$. Then sometime later, observer A observes that time $$\Delta t$$ passed from the initial time $$t=0$$. And he send the light to the observer B. When the observer B receives the light, he would observe his time from the initial time to be $$\alpha \Delta t$$.
+
+Let us assume light can propagate in backward time, so observer A send the light to the past. Also assume observer A send the backward-light at the same time when he send forward-light to observer B, i.e., at the instant that he observes time to be $$\Delta t$$ by his clock. Then by symmetry, observer B receives the backward-light when he observes his clock to be $$\Delta t/\alpha$$.
+
 ### 2. Observed Distance difference
 
 ### 3. Observed Time and Distance difference
