@@ -40,7 +40,7 @@ Let us assume that there are two inertial observers and their relative velocity 
 
 Let us assume light can propagate in backward time, so observer A send the light to the past. This assumption is not physical, but just a trick to calculate $$\alpha$$. Also assume observer A sends the backward-light at the same time when he sends forward-light to observer B, i.e., at the instant that he observes clock to show $$\Delta t$$ has passed from $$t=0$$. Then by symmetry, observer B receives the backward-light when he observes his clock to show $$\Delta t/\alpha$$ has passed from $$t=0$$.
 
-Let us denote $$\Delta t'$$ for time for sent light (backward or forward) to take to travel from A to B. Then
+Let us denote $$\Delta t'$$ for time, for sent light (backward or forward) to take to travel from A to B, inferred by B. Then
 
 $$v\left(\frac{1}{\alpha}\Delta t+\Delta t'\right)=v\left(\alpha \Delta t - \Delta t'\right)=c \Delta t'$$
 
@@ -56,7 +56,7 @@ Then $$\Delta t'$$ is
 
 $$\Delta t'=\frac{1}{\sqrt{c^2-v^2}}v\Delta t=\frac{1}{\sqrt{1-(v/c)^2}}\frac{v}{c}\Delta t$$
 
-So inferred time that observer B observes by the clock and infers to be simultaneous with light sending action by observer A is
+So inferred time that observer B infers to be simultaneous with light sending action by observer A is
 
 $$\frac{c}{v}\Delta t'=\frac{1}{\sqrt{1-(v/c)^2}}\Delta t=\gamma \Delta t$$
 
@@ -74,7 +74,7 @@ Let us assume that there are three inertial observers. The relative velocity bet
 
 Observer A and observer B were at same position at $$t=0$$. Also assume observer A sends light at $$t=0$$ to observer C. When observer C gets the light, he immediately sends light back to A.
 
-The time that observer B observes by his clock when he receives the reflected light is $$2 \alpha \Delta x/c$$. Then the observed distance from A and C is
+The time that observer B observes by his clock when he receives the reflected light is $$2 \alpha \Delta x/c$$. Then the observed distance from A and C, observed by B is
 
 $$\alpha \Delta x - v\left(\gamma \frac{2\Delta x}{c}\right)=\frac{1}{2}\left(\alpha (2 \Delta x) - 2v\left(\gamma \frac{2\Delta x}{c}\right)\right)=\frac{1}{2}\left(\frac{1}{\alpha} (2 \Delta x)\right)=\frac{1}{\alpha}\Delta x$$
 
