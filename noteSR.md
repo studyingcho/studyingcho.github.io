@@ -35,9 +35,9 @@ Galilean symmetry assumes absoluteness of time, i.e., time is not relative for a
 
 ### 1. Observed Time difference
 
-Let us assume that there are two inertial observers and their relative velocity is $$v$$. Also assume that two observers were initially at same position and at the initial instant they set the clock to show $$t=0$$. Then sometime later, observer A observes that time $$\Delta t$$ passed from the initial time $$t=0$$. And he send the light to the observer B. When the observer B receives the light, he would observe his time from the initial time to be $$\alpha \Delta t$$.
+Let us assume that there are two inertial observers and their relative velocity is $$v$$. Also assume that two observers were initially at same position and at the initial instant they set the clock to show $$t=0$$. Then sometime later, observer A observes his clock showing time $$\Delta t$$ has passed from the initial time $$t=0$$. And when he observes this, he sends the light to the observer B. When the observer B receives the light, he would observe his clock showing time $$\alpha \Delta t$$ has passed from $$t=0$$.
 
-Let us assume light can propagate in backward time, so observer A send the light to the past. Also assume observer A send the backward-light at the same time when he send forward-light to observer B, i.e., at the instant that he observes time to be $$\Delta t$$ by his clock. Then by symmetry, observer B receives the backward-light when he observes his clock to be $$\Delta t/\alpha$$.
+Let us assume light can propagate in backward time, so observer A send the light to the past. This assumption is not physical, but just a trick to calculate $$\alpha$$. Also assume observer A sends the backward-light at the same time when he sends forward-light to observer B, i.e., at the instant that he observes clock to show $$\Delta t$$ has passed from $$t=0$$. Then by symmetry, observer B receives the backward-light when he observes his clock to show $$\Delta t/\alpha$$ has passed from $$t=0$$.
 
 ### 2. Observed Distance difference
 
