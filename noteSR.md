@@ -62,7 +62,7 @@ $$\frac{c}{v}\Delta t'=\frac{1}{\sqrt{1-(v/c)^2}}\Delta t=\gamma \Delta t$$
 
 Also the inferred time could be expressed in terms of observation.
 
-$$\gamma \Delta t = \frac{c}{v}\Delta t'=\frac{1}{1-v/c}\left(\frac{1}{\alpha}\Delta t\right)=\frac{1}{1+v/c}(\alpha\Delta t)$$
+$$\gamma \Delta t =\frac{c}{c-v}\left(\frac{1}{\alpha}\Delta t\right)=\frac{c}{c+v}(\alpha\Delta t)$$
 
 ### 2. Observed Distance difference
 
