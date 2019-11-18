@@ -1,5 +1,6 @@
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 # Note on Special Relativity
+<alert>This is not done. Much effort is needed to polish this out to be readable, logical and self-contained.</alert>
 ## I. Introduction
 ### 1. What is Special Relativity?
 
@@ -41,15 +42,23 @@ Let us assume light can propagate in backward time, so observer A send the light
 
 Let us denote $$\Delta t'$$ for time for sent light (backward or forward) to take to travel from A to B. Then
 
-$$v(\frac{1}{\alpha}\Delta t+\Delta t')=v(\alpha \Delta t - \Delta t')=c \Delta t'$$
+$$v\left(\frac{1}{\alpha}\Delta t+\Delta t'\right)=v\left(\alpha \Delta t - \Delta t'\right)=c \Delta t'$$
 
 Here $$c$$ denotes speed of light. So $$\Delta t'$$ is 
 
-$$\Delta t'=\frac{1}{c-v}v\frac{1}{\alpha}\Delta t=\frac{1}{c+v}v\alpha\Delta t$$
+$$\Delta t'=\frac{1}{c-v}v\left(\frac{1}{\alpha}\Delta t\right)=\frac{1}{c+v}v\alpha\Delta t$$
 
 Then $$\alpha$$ is
 
-$$\alpha=\sqrt{\frac{c+v}{c-v}}$$
+$$\alpha=\sqrt{\frac{c+v}{c-v}}=\sqrt{\frac{1+v/c}{1-v/c}}$$
+
+Then $$\Delta t'$$ is
+
+$$\Delta t'=\frac{1}{\sqrt{c^2-v^2}}v\Delta t=\frac{1}{\sqrt{1-(v/c)^2}}\frac{v}{c}\Delta t$$
+
+So inferred time that observer B observes by the clock and infers to be simultaneous with light sending action by observer A is
+
+$$\frac{c}{v}\Delta t'=\frac{1}{\sqrt{1-(v/c)^2}}\Delta t=\gamma \Delta t$$
 
 ### 2. Observed Distance difference
 
