@@ -60,7 +60,7 @@ So inferred time that observer B observes by the clock and infers to be simultan
 
 $$\frac{c}{v}\Delta t'=\frac{1}{\sqrt{1-(v/c)^2}}\Delta t=\gamma \Delta t$$
 
-Also the inferred time could be expressed in terms of observation.
+Also the inferred time could be expressed in terms of observed time.
 
 $$\gamma \Delta t =\frac{c}{c-v}\left(\frac{1}{\alpha}\Delta t\right)=\frac{c}{c+v}(\alpha\Delta t)$$
 
