@@ -39,6 +39,18 @@ Let us assume that there are two inertial observers and their relative velocity 
 
 Let us assume light can propagate in backward time, so observer A send the light to the past. This assumption is not physical, but just a trick to calculate $$\alpha$$. Also assume observer A sends the backward-light at the same time when he sends forward-light to observer B, i.e., at the instant that he observes clock to show $$\Delta t$$ has passed from $$t=0$$. Then by symmetry, observer B receives the backward-light when he observes his clock to show $$\Delta t/\alpha$$ has passed from $$t=0$$.
 
+Let us denote $$\Delta t'$$ for time for sent light (backward or forward) to take to travel from A to B. Then
+
+$$v(\frac{1}{\alpha}\Delta t+\Delta t')=v(\alpha \Delta t - \Delta t')=c \Delta t'$$
+
+Here $$c$$ denotes speed of light. So $$\Delta t'$$ is 
+
+$$\Delta t'=\frac{1}{c-v}v\frac{1}{\alpha}\Delta t=\frac{1}{c+v}v\alpha\Delta t$$
+
+Then $$\alpha$$ is
+
+$$\alpha=\sqrt{\frac{c+v}{c-v}}$$
+
 ### 2. Observed Distance difference
 
 ### 3. Observed Time and Distance difference
