@@ -68,11 +68,11 @@ Observer A and observer B were at same position at $$t=0$$. Also assume observer
 
 The time that observer B observes by his clock when he receives the reflected light is $$2 \alpha \Delta x/c$$. Then the observed distance from A and C is
 
-$$\alpha (\Delta x) - v\left(\gamma \frac{2\Delta x}{c}\right)=\frac{1}{2}\left(\alpha (2 \Delta x) - 2v\left(\gamma \frac{2\Delta x}{c}\right)\right)=\frac{1}{2}\left(\frac{1}{\alpha} (2 \Delta x)\right)=\frac{1}{\alpha}\Delta x$$
+$$\alpha \Delta x - v\left(\gamma \frac{2\Delta x}{c}\right)=\frac{1}{2}\left(\alpha (2 \Delta x) - 2v\left(\gamma \frac{2\Delta x}{c}\right)\right)=\frac{1}{2}\left(\frac{1}{\alpha} (2 \Delta x)\right)=\frac{1}{\alpha}\Delta x$$
 
 So inferred distance that observer B infers to be distance from A to C from his point of view is
 
-$$\alpha (\Delta x)-v\frac{\alpha (\Delta x)}{c}$$
+$$\alpha \Delta x-v\frac{\alpha (\Delta x)}{c}$$
 
 ### 3. Observed Time and Distance difference
 
