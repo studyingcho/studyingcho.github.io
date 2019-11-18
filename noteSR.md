@@ -60,6 +60,10 @@ So inferred time that observer B observes by the clock and infers to be simultan
 
 $$\frac{c}{v}\Delta t'=\frac{1}{\sqrt{1-(v/c)^2}}\Delta t=\gamma \Delta t$$
 
+Also the inferred time could be expressed in terms of observation.
+
+$$\gamma \Delta t = \frac{c}{v}\Delta t'=\frac{1}{1-v/c}\left(\frac{1}{\alpha}\Delta t\right)=\frac{1}{1+v/c}(\alpha\Delta t)$$
+
 ### 2. Observed Distance difference
 
 Let us assume that there are three inertial observers. The relative velocity between observer A and observer B is $$v$$ and the relative velocity between observer A and observer C is 0.
