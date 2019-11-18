@@ -64,7 +64,7 @@ $$\frac{c}{v}\Delta t'=\frac{1}{\sqrt{1-(v/c)^2}}\Delta t=\gamma \Delta t$$
 
 Let us assume that there are three inertial observers. The relative velocity between observer A and observer B is $$v$$ and the relative velocity between observer A and observer C is 0.
 
-Observer A and observer B were at same position at $$t=0$$. Also assume observer A send light at $$t=0$$ to observer C. When observer C got the light, he immediately send light back to A.
+Observer A and observer B were at same position at $$t=0$$. Also assume observer A sends light at $$t=0$$ to observer C. When observer C gets the light, he immediately sends light back to A.
 
 The time that observer B observes by his clock when he receives the reflected light is $$2 \alpha \Delta x/c$$. Then the observed distance from A and C is
 
