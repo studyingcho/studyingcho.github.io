@@ -267,7 +267,7 @@ $$\begin{eqnarray}&&\alpha \Delta x - v\left(\gamma \frac{2\Delta x}{c}\right)\\
 
 So inferred distance that observer B infers to be distance from A to C from his point of view is
 
-$$\alpha \Delta x-v\frac{\alpha \Delta x}{c}=\frac{1}{\alpha}\Delta x+\frac{v}{c}\frac{1}{\alpha}\Delta x=\frac{1}{\gamma}\Delta x\end{eqnarray}$$
+$$\alpha \Delta x-v\frac{\alpha \Delta x}{c}=\frac{1}{\alpha}\Delta x+\frac{v}{c}\frac{1}{\alpha}\Delta x=\frac{1}{\gamma}\Delta x$$
 
 You can easily see that
 
