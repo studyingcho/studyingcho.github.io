@@ -96,7 +96,7 @@ $$\alpha\left(\Delta t-\frac{v}{c}\Delta t\right)=\frac{1}{\alpha}\left(\Delta t
   	<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
   	<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
   		<g transform="rotate(90)">
-  		<foreignObject x="5" y="-10">\(t\)</foreignObject>
+  		<foreignObject x="10" y="-10">\(t\)</foreignObject>
   		</g>
   	</g>
 
