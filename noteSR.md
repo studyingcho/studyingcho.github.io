@@ -283,7 +283,7 @@ $$\begin{eqnarray}&&\frac{1}{2}c\left(\alpha \Delta t -\frac{1}{\alpha}\left(\De
 
 Inversely, if observer B receives forward light by time $$\Delta t'$$ and backward light by time $$\Delta t' - 2\Delta x'/c$$ then observer A receives forward light by $$\Delta t'/\alpha$$ and the distance from A to C in A's point of view is
 
-$$\begin{eqnarray}\frac{1}{2}c\left(\frac{1}{\alpha} \Delta t' -\alpha\left(\Delta t' - \frac{2\Delta x'}{c}\right)\right)\\&=&\alpha\left(\Delta x'-\gamma v \left(\frac{1}{\alpha} \Delta t'\right)\right)\end{eqnarray}$$
+$$\begin{eqnarray}&&\frac{1}{2}c\left(\frac{1}{\alpha} \Delta t' -\alpha\left(\Delta t' - \frac{2\Delta x'}{c}\right)\right)\\&=&\alpha\left(\Delta x'-\gamma v \left(\frac{1}{\alpha} \Delta t'\right)\right)\end{eqnarray}$$
 
 
 ## III. Energy-momentum and Mass
