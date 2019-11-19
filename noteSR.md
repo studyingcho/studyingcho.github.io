@@ -61,24 +61,6 @@ So inferred time that observer B infers to be simultaneous with light sending ac
 
 $$\frac{c}{v}\Delta t'=\frac{1}{\sqrt{1-(v/c)^2}}\Delta t=\gamma \Delta t$$
 
-Also the inferred time could be expressed in terms of observed time.
-
-$$\gamma \Delta t =\frac{c}{c-v}\left(\frac{1}{\alpha}\Delta t\right)=\frac{c}{c+v}(\alpha\Delta t)$$
-
-Also
-
-$$\gamma \Delta t=\frac{1}{2}\left(\alpha-\frac{1}{\alpha}\right)\Delta t$$
-
-,i.e., simultanity is assumed to be the middle point between received times of forward light and backward light. You can also check that
-
-$$\alpha\left(\Delta t-\frac{v}{c}\Delta t\right)=\frac{1}{\alpha}\left(\Delta t+\frac{v}{c}\Delta t\right)=\frac{1}{\gamma}\Delta t$$
-
-<script type="text/tikz">
-\begin{tikzpicture}
-\draw[->] (0,0) -- (1,0);
-\end{tikzpicture}
-</script>
-
 <center>
 <svg width="400" height="450">
 
@@ -150,6 +132,27 @@ $$\alpha\left(\Delta t-\frac{v}{c}\Delta t\right)=\frac{1}{\alpha}\left(\Delta t
 </svg>
 
 </center>
+
+Also the inferred time could be expressed in terms of observed time.
+
+$$\gamma \Delta t =\frac{c}{c-v}\left(\frac{1}{\alpha}\Delta t\right)=\frac{c}{c+v}(\alpha\Delta t)$$
+
+Also
+
+$$\gamma \Delta t=\frac{1}{2}\left(\alpha-\frac{1}{\alpha}\right)\Delta t$$
+
+,i.e., simultanity is assumed to be the middle point between received times of forward light and backward light.
+
+You can also check that
+
+$$\alpha\left(\Delta t-\frac{v}{c}\Delta t\right)=\frac{1}{\alpha}\left(\Delta t+\frac{v}{c}\Delta t\right)=\frac{1}{\gamma}\Delta t$$
+
+<script type="text/tikz">
+\begin{tikzpicture}
+\draw[->] (0,0) -- (1,0);
+\end{tikzpicture}
+</script>
+
 ### 2. Observed Distance difference
 
 Let us assume that there are three inertial observers. The relative velocity between observer A and observer B is $$v$$ and the relative velocity between observer A and observer C is 0.
