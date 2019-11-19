@@ -64,7 +64,11 @@ Also the inferred time could be expressed in terms of observed time.
 
 $$\gamma \Delta t =\frac{c}{c-v}\left(\frac{1}{\alpha}\Delta t\right)=\frac{c}{c+v}(\alpha\Delta t)$$
 
-You can also check that
+Also
+
+$$\gamma \Delta t=\frac{1}{2}\left(\alpha-\frac{1}{\alpha}\right)\Delta t$$
+
+,i.e., simultanity is assumed to be the middle point between received times of forward light and backward light. You can also check that
 
 $$\alpha\left(\Delta t-\frac{v}{c}\Delta t\right)=\frac{1}{\alpha}\left(\Delta t+\frac{v}{c}\Delta t\right)=\frac{1}{\gamma}\Delta t$$
 
@@ -97,5 +101,6 @@ $$\frac{1}{2}c\left(\alpha \Delta t -\frac{1}{\alpha}\left(\Delta t - \frac{2\De
 Inversely, if observer B receives forward light by time $$\Delta t'$$ and backward light by time $$\Delta t' - 2\Delta x'/c$$ then observer A receives forward light by $$\Delta t'/\alpha$$ and the distance from A to C in A's point of view is
 
 $$\frac{1}{2}c\left(\frac{1}{\alpha} \Delta t' -\alpha\left(\Delta t' - \frac{2\Delta x'}{c}\right)\right)=\alpha\left(\Delta x'-\gamma v \left(\frac{1}{\alpha} \Delta t'\right)\right)$$
+
 
 ## III. Energy-momentum and Mass
