@@ -62,7 +62,7 @@ So inferred time that observer B infers to be simultaneous with light sending ac
 $$\frac{c}{v}\Delta t'=\frac{1}{\sqrt{1-(v/c)^2}}\Delta t=\gamma \Delta t$$
 
 <center>
-<svg width="400" height="450">
+<svg width="360" height="405" viewBox="0 0 400 450">
 
   <g transform="translate(50,0)">
 
@@ -148,7 +148,7 @@ You can also check that
 $$\alpha\left(\Delta t-\frac{v}{c}\Delta t\right)=\frac{1}{\alpha}\left(\Delta t+\frac{v}{c}\Delta t\right)=\frac{1}{\gamma}\Delta t$$
 
 <center>
-<svg width="400" height="450">
+<svg width="360" height="405" viewBox="0 0 400 450">
 
   <g transform="translate(50,0)">
 
