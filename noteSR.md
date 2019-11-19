@@ -236,10 +236,10 @@ $$\alpha\left(\Delta t-\frac{v}{c}\Delta t\right)=\frac{1}{\alpha}\left(\Delta t
           
     <g transform="rotate(-60)">  
     <g transform="translate(102,0) rotate(-30)">
-  				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
+  				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
   				</g>
   				<g transform="translate(370,0) rotate(-120)">
-  				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
+  				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
   				</g>
     </g>
   	</g>
