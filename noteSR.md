@@ -267,13 +267,13 @@ $$\begin{eqnarray}&&\alpha \Delta x - v\left(\gamma \frac{2\Delta x}{c}\right)\\
 
 So inferred distance that observer B infers to be distance from A to C from his point of view is
 
-$$\alpha \Delta x-v\frac{\alpha \Delta x}{c}=\frac{1}{\alpha}\Delta x+\frac{v}{c}\frac{1}{\alpha}\Delta x=\frac{1}{\gamma}\Delta x$$
+$$\alpha \Delta x-v\frac{\alpha \Delta x}{c}=\frac{1}{\alpha}\Delta x+\frac{v}{c}\frac{1}{\alpha}\Delta x=\frac{1}{\gamma}\Delta x\end{eqnarray}$$
 
 You can easily see that
 
-$$\alpha \Delta x-v\frac{\alpha \Delta x}{c}=\alpha c\left(\frac{\Delta x}{c}-\frac{v}{c}\frac{\Delta x}{c}\right)=\frac{1}{\gamma}\Delta x$$
+$$\begin{eqnarray}&&\alpha \Delta x-v\frac{\alpha \Delta x}{c}\\&=&\alpha c\left(\frac{\Delta x}{c}-\frac{v}{c}\frac{\Delta x}{c}\right)=\frac{1}{\gamma}\Delta x\end{eqnarray}$$
 
-$$\frac{1}{\alpha}\Delta x+\frac{v}{c}\frac{1}{\alpha}\Delta x=\frac{1}{\alpha}c\left(\frac{\Delta x}{c}+\frac{v}{c}\frac{\Delta x}{c}\right)=\frac{1}{\gamma}\Delta x$$
+$$\begin{eqnarray}&&\frac{1}{\alpha}\Delta x+\frac{v}{c}\frac{1}{\alpha}\Delta x\\&=&\frac{1}{\alpha}c\left(\frac{\Delta x}{c}+\frac{v}{c}\frac{\Delta x}{c}\right)=\frac{1}{\gamma}\Delta x\end{eqnarray}$$
 
 ### 3. Observed Time and Distance difference
 
