@@ -279,11 +279,11 @@ $$\frac{1}{\alpha}\Delta x+\frac{v}{c}\frac{1}{\alpha}\Delta x=\frac{1}{\alpha}c
 
 Let us assume that there are two inertial observers, A and B and their relative velocity is $$v$$. As before, we set distance from A to B to be zero when their clock is synchronized to be zero. Also there is event C which is along the line of $$v$$. Assume that event C send light forward and backward in time to obsever A and B. Then A receives forward light when he observes his clock to show $$\Delta t$$ and receives backward light when he observes his clock to show $$\Delta t - 2\Delta x/c$$. Then observer B receives the forward light when he observes his clock to show $$\alpha \Delta t$$ and receives the backward light when he observes his clock to show $$(\Delta t - 2\Delta x/c)/\alpha$$. Therefore, the distance of event C from observer B in B's point of view is
 
-$$\frac{1}{2}c\left(\alpha \Delta t -\frac{1}{\alpha}\left(\Delta t - \frac{2\Delta x}{c}\right)\right)=\frac{1}{\alpha}\left(\Delta x+\gamma v(\alpha \Delta t)\right)$$
+$$\begin{eqnarray}&&\frac{1}{2}c\left(\alpha \Delta t -\frac{1}{\alpha}\left(\Delta t - \frac{2\Delta x}{c}\right)\right)\\&=&\frac{1}{\alpha}\left(\Delta x+\gamma v(\alpha \Delta t)\right)\end{eqnarray}$$
 
 Inversely, if observer B receives forward light by time $$\Delta t'$$ and backward light by time $$\Delta t' - 2\Delta x'/c$$ then observer A receives forward light by $$\Delta t'/\alpha$$ and the distance from A to C in A's point of view is
 
-$$\frac{1}{2}c\left(\frac{1}{\alpha} \Delta t' -\alpha\left(\Delta t' - \frac{2\Delta x'}{c}\right)\right)=\alpha\left(\Delta x'-\gamma v \left(\frac{1}{\alpha} \Delta t'\right)\right)$$
+$$\begin{eqnarray}\frac{1}{2}c\left(\frac{1}{\alpha} \Delta t' -\alpha\left(\Delta t' - \frac{2\Delta x'}{c}\right)\right)\\&=&\alpha\left(\Delta x'-\gamma v \left(\frac{1}{\alpha} \Delta t'\right)\right)\end{eqnarray}$$
 
 
 ## III. Energy-momentum and Mass
