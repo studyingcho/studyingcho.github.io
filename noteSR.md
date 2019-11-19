@@ -208,11 +208,11 @@ $$\alpha\left(\Delta t-\frac{v}{c}\Delta t\right)=\frac{1}{\alpha}\left(\Delta t
 </g>
   		</g>
         
-   <path d="M 0 0 q -20 -40 0 -80" style="stroke:darkgrey;stroke-width:1" fill="none" />
+   <path d="M 0 0 q -20 -40 0 -90" style="stroke:darkgrey;stroke-width:1" fill="none" />
           
-   <path d="M 0 0 q -40 -75 0 -150" style="stroke:black;stroke-width:1" fill="none" />
+   <path d="M 0 0 q -40 -70 0 -140" style="stroke:black;stroke-width:1" fill="none" />
           
-  	<path d="M 0 0 q -60 -110 0 -220" style="stroke:darkgrey;stroke-width:1" fill="none" />
+  	<path d="M 0 0 q -60 -107.5 0 -215" style="stroke:darkgrey;stroke-width:1" fill="none" />
 
   	<path d="M 0 0 q -80 -170 0 -340" style="stroke:darkgrey;stroke-width:1" fill="none" />
   		<g transform="translate(-80,-170)">
@@ -230,7 +230,7 @@ $$\alpha\left(\Delta t-\frac{v}{c}\Delta t\right)=\frac{1}{\alpha}\left(\Delta t
   		<foreignObject x="-9" y="-25">$$\frac{1}{\gamma}\Delta t$$</foreignObject>
   		</g>
           
-   <g transform="translate(-60,-110)">
+   <g transform="translate(-60,-107.5)">
   		<rect x="10" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
   		<foreignObject x="6" y="-22"><span style="color:grey">$$\gamma\Delta t$$</span></foreignObject>
   		</g> 
