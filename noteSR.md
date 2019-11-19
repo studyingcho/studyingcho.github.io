@@ -97,10 +97,10 @@ $$\frac{c}{v}\Delta t'=\frac{1}{\sqrt{1-(v/c)^2}}\Delta t=\gamma \Delta t$$
   				<foreignObject x="0" y="-6" fill="black">\(\Delta t\)</foreignObject> 
   				</g>
   				<g transform="rotate(-30)">
-  				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
+  				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 20 -20" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
   				</g>
   				<g transform="rotate(-120)">
-  				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
+  				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 20 -20" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
   				</g>
 
   			</g>
@@ -109,14 +109,14 @@ $$\frac{c}{v}\Delta t'=\frac{1}{\sqrt{1-(v/c)^2}}\Delta t=\gamma \Delta t$$
 
   	<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
 
-  	<path d="M 0 0 q -20 -40 0 -80" style="stroke:darkgrey;stroke-width:1" fill="none" />
-  		<g transform="translate(-26,-40)">
+  	<path d="M 0 0 q -20 -45 0 -90" style="stroke:darkgrey;stroke-width:1" fill="none" />
+  		<g transform="translate(-26,-45)">
   		<rect x="0" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
   		<foreignObject x="-18" y="-32" fill="black">$$\frac{1}{\alpha}\Delta t$$</foreignObject>
   		</g> 
 
-  	<path d="M 0 0 q -40 -110 0 -220" style="stroke:darkgrey;stroke-width:1" fill="none" />
-  		<g transform="translate(-40,-110)">
+  	<path d="M 0 0 q -40 -107.5 0 -215" style="stroke:darkgrey;stroke-width:1" fill="none" />
+  		<g transform="translate(-40,-107.5)">
   		<rect x="2" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
   		<foreignObject x="0" y="-22" fill="black">$$\gamma\Delta t$$</foreignObject>
   		</g> 
@@ -199,7 +199,7 @@ $$\alpha\left(\Delta t-\frac{v}{c}\Delta t\right)=\frac{1}{\alpha}\left(\Delta t
   				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 20 -20" style="stroke:khaki;stroke-width:1.5" fill="none"/>
   				</g>
   				<g transform="rotate(-120)">
-  				<path d="M 0 0 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 20 -20" style="stroke:khaki;stroke-width:1.5" fill="none"/>
+  				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 20 -20" style="stroke:khaki;stroke-width:1.5" fill="none"/>
   					</g>
   				
 	  		<g transform="rotate(-150)">
