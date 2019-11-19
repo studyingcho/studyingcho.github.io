@@ -79,6 +79,77 @@ $$\alpha\left(\Delta t-\frac{v}{c}\Delta t\right)=\frac{1}{\alpha}\left(\Delta t
 \end{tikzpicture}
 </script>
 
+<center>
+<svg width="400" height="450">
+
+  <g transform="translate(50,0)">
+
+  <line x1="-50" y1="400" x2="340" y2="400" style="stroke:black;stroke-width:1" />
+  	<g transform="translate(340,400)">
+  	<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
+  	<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
+  	<foreignObject x="0" y="5">\(x\)</foreignObject>
+  	</g>
+
+  <line x1="20" y1="450" x2="20" y2="10" style="stroke:black;stroke-width:1" />
+  	<g transform="translate(20,10) rotate(-90)">
+  	<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
+  	<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
+  		<g transform="rotate(90)">
+  		<foreignObject x="5" y="-10">\(t\)</foreignObject>
+  		</g>
+  	</g>
+
+  	<g transform="translate(20,400)">
+  		<g transform="rotate(-60)">
+  		<line x1="0" y1="0" x2="400" y2="0" style="stroke:black;stroke-width:1" />
+  		<path d="M 0 0 q 124 22 248 0" style="stroke:darkgrey;stroke-width:1" fill="none" />
+
+  			<g transform="translate(248,0)">
+
+  				<g transform="rotate(60)">
+  				<path stroke-dasharray="8,3" d="M 0 0 -125 0" style="stroke:black;stroke-width:1" fill="none" />
+				</g>
+  				<g transform="translate(-124,0) rotate(60)">
+  				<rect x="2" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
+  				<foreignObject x="0" y="-6" fill="black">\(\Delta t\)</foreignObject> 
+  				</g>
+  				<g transform="rotate(-30)">
+  				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
+  				</g>
+  				<g transform="rotate(-120)">
+  				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
+  				</g>
+
+  			</g>
+
+  		</g>
+
+  	<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
+
+  	<path d="M 0 0 q -20 -40 0 -80" style="stroke:darkgrey;stroke-width:1" fill="none" />
+  		<g transform="translate(-26,-40)">
+  		<rect x="0" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
+  		<foreignObject x="-18" y="-32" fill="black">$$\frac{1}{\alpha}\Delta t$$</foreignObject>
+  		</g> 
+
+  	<path d="M 0 0 q -40 -110 0 -220" style="stroke:darkgrey;stroke-width:1" fill="none" />
+  		<g transform="translate(-40,-110)">
+  		<rect x="2" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
+  		<foreignObject x="0" y="-22" fill="black">$$\gamma\Delta t$$</foreignObject>
+  		</g> 
+
+  	<path d="M 0 0 q -60 -170 0 -340" style="stroke:darkgrey;stroke-width:1" fill="none" />
+  		<g transform="translate(-60,-170)">
+  		<rect x="8" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
+  		<foreignObject x="6" y="-22" fill="black">$$\alpha\Delta t$$</foreignObject>
+  		</g> 
+  	</g>
+
+  </g>
+</svg>
+
+</center>
 ### 2. Observed Distance difference
 
 Let us assume that there are three inertial observers. The relative velocity between observer A and observer B is $$v$$ and the relative velocity between observer A and observer C is 0.
