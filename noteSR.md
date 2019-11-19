@@ -75,7 +75,7 @@ $$\alpha\left(\Delta t-\frac{v}{c}\Delta t\right)=\frac{1}{\alpha}\left(\Delta t
 
 <script type="text/tikz">
 \begin{tikzpicture}
-\draw (0,0) -> (1,0);
+\draw[->] (0,0) -- (1,0);
 \end{tikzpicture}
 </script>
 
