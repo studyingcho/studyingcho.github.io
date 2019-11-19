@@ -1,4 +1,5 @@
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css"> <script src="http://tikzjax.com/v1/tikzjax.js"></script>
 <span style="color:red">This is not done. Much effort is needed to polish this out to be clear, insightful, readable, logical and self-contained.</span>
 # Note on Special Relativity
 ## I. Introduction
@@ -71,6 +72,12 @@ $$\gamma \Delta t=\frac{1}{2}\left(\alpha-\frac{1}{\alpha}\right)\Delta t$$
 ,i.e., simultanity is assumed to be the middle point between received times of forward light and backward light. You can also check that
 
 $$\alpha\left(\Delta t-\frac{v}{c}\Delta t\right)=\frac{1}{\alpha}\left(\Delta t+\frac{v}{c}\Delta t\right)=\frac{1}{\gamma}\Delta t$$
+
+<script type="text/tikz">
+\begin{tikzpicture}
+\draw (0,0) -> (1,0);
+\end{tikzpicture}
+</script>
 
 ### 2. Observed Distance difference
 
