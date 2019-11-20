@@ -74,7 +74,7 @@ $$\frac{c}{v}\Delta t'=\frac{1}{\sqrt{1-(v/c)^2}}\Delta t=\gamma \Delta t$$
 	<g transform="translate(340,400)">
 		<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
 		<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
-		<foreignObject x="0" y="5" width="10" height="25">\(x\)</foreignObject>
+		<foreignObject x="-3" y="5" width="12" height="25">\(x\)</foreignObject>
 	</g>
 	<line x1="20" y1="450" x2="20" y2="10" style="stroke:black;stroke-width:1" />
 	<g transform="translate(20,10) rotate(-90)">
@@ -156,7 +156,7 @@ $$\alpha\left(\Delta t-\frac{v}{c}\Delta t\right)=\frac{1}{\alpha}\left(\Delta t
 	<g transform="translate(340,400)">
 		<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
 		<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
-		<foreignObject x="0" y="5" width="10" height="25">\(x\)</foreignObject>
+		<foreignObject x="-3" y="5" width="10" height="25">\(x\)</foreignObject>
 	</g>
 
 	<line x1="20" y1="450" x2="20" y2="10" style="stroke:black;stroke-width:1" />
@@ -274,7 +274,7 @@ As above equation implies, the result can be shown by spacetime-light geometry w
 		<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
 		<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
 		<g transform="scale(1,-1)">
-			<foreignObject x="3" y="3" width="10" height="25">\(x\)</foreignObject>
+			<foreignObject x="3" y="-3" width="10" height="25">\(x\)</foreignObject>
 		</g>
   	</g>
 
