@@ -269,7 +269,7 @@ $$\begin{eqnarray}&&\alpha \Delta x - v\left(\gamma \frac{2\Delta x}{c}\right)\\
 As above equation implies, the result can be shown by spacetime-light geometry without explicit calculation. Use below picture for geometry.
 
   <center>
-<svg width="405" height="405" viewBox="-140 -20 440 440">
+<svg width="380" height="380" viewBox="-140 -20 440 440">
   <g transform="scale(1,-1) translate(0,-400)">
   <line x1="-140" y1="0" x2="280" y2="0" style="stroke:black;stroke-width:1" />
   		<g transform="translate(280,0)">
