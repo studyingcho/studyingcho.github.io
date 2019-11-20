@@ -1,8 +1,11 @@
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css"> <script src="http://tikzjax.com/v1/tikzjax.js"></script>
 <span style="color:red">This is not done. Much effort is needed to polish this out to be clear, insightful, readable, logical and self-contained.</span>
+
 # Note on Special Relativity
+
 <span style="color:red">Caution!</span> Mathematical symbols in the picture is <span style="color:red">not properly rendered in internet explorer</span>. Please use chrome or etc to see the picture clearly.
+
 ## I. Introduction
 ### 1. What is Special Relativity?
 
