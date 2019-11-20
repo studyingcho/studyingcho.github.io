@@ -266,161 +266,157 @@ $$\begin{eqnarray}&&\alpha \Delta x - v\left(\gamma \frac{2\Delta x}{c}\right)\\
 
 As above equation implies, the result can be shown by spacetime-light geometry without explicit calculation. Use below picture for geometry.
 
-  <center>
+<center>
 <svg width="370" height="370" viewBox="-140 -20 440 440">
-  <g transform="scale(1,-1) translate(0,-400)">
-  <line x1="-140" y1="0" x2="280" y2="0" style="stroke:black;stroke-width:1" />
-  		<g transform="translate(280,0)">
-  	<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
-  	<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
-  	<g transform="scale(1,-1)">
-  	<foreignObject x="3" y="3">\(x\)</foreignObject>
-  	</g>
+<g transform="scale(1,-1) translate(0,-400)">
+	<line x1="-140" y1="0" x2="280" y2="0" style="stroke:black;stroke-width:1" />
+	<g transform="translate(280,0)">
+		<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
+		<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
+		<g transform="scale(1,-1)">
+			<foreignObject x="3" y="3" width="10" height="25">\(x\)</foreignObject>
+		</g>
   	</g>
 
-  <line x1="0" y1="-20" x2="0" y2="400" style="stroke:black;stroke-width:1" />
-  <g transform="translate(0,400) rotate(90)">
-  	<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
-  	<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
-  	<g transform="rotate(-90) scale(1,-1)">
-  	<foreignObject x="15" y="-5">\(t\)</foreignObject>
-  	</g>
+	<line x1="0" y1="-20" x2="0" y2="400" style="stroke:black;stroke-width:1" />
+	<g transform="translate(0,400) rotate(90)">
+		<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
+		<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
+		<g transform="rotate(-90) scale(1,-1)">
+			<foreignObject x="15" y="-5" width="10" height="25">\(t\)</foreignObject>
+		</g>
   	</g>
   	
   	<path d="M 0 0 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 " style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
   	
   	<g transform="rotate(67.5)">
-  	<line x1="0" y1="0" x2="400" y2="0" style="stroke:black;stroke-width:1" />
-  	<path d="M 0 0 q  68 -30 136 0" style="stroke:darkgrey;stroke-width:1" fill="none" />
-  	<path d="M 136 0 q  68 30 136 0" style="stroke:darkgrey;stroke-width:1" fill="none" />
-  </g>
+		<line x1="0" y1="0" x2="400" y2="0" style="stroke:black;stroke-width:1" />
+		<path d="M 0 0 q  68 -30 136 0" style="stroke:darkgrey;stroke-width:1" fill="none" />
+		<path d="M 136 0 q  68 30 136 0" style="stroke:darkgrey;stroke-width:1" fill="none" />
+	</g>
   
-  <g transform="translate(105,0) rotate(67.5)">
-  	<line x1="0" y1="0" x2="400" y2="0" style="stroke:black;stroke-width:1" />
-  </g>
+	<g transform="translate(105,0) rotate(67.5)">
+		<line x1="0" y1="0" x2="400" y2="0" style="stroke:black;stroke-width:1" />
+	</g>
   
     <g transform=" rotate(45) translate(250,0) rotate(45)">
     	<path d="M 0 -3 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 " style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
-    	</g>
-    	<path stroke-dasharray="8,3" d="M 0 180 l 180 0" style="stroke:black;stroke-width:1" fill="none" />
-    	
-    	<g transform=" rotate(45) translate(250,0) rotate(157.5)">
-    		<path stroke-dasharray="8,3" d="M 0 0 l 135 0" style="stroke:black;stroke-width:1" fill="none" />
-    		<path d="M 0 0 q  67.5 30 135 0" style="stroke:darkgrey;stroke-width:1" fill="none" />
-    		<g transform="translate(63.5,25) rotate(-202.5)">
-  		<rect x="-18" y="0" width="25" height="16" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
+    </g>
+	
+    <path stroke-dasharray="8,3" d="M 0 180 l 180 0" style="stroke:black;stroke-width:1" fill="none" />	
+    <g transform=" rotate(45) translate(250,0) rotate(157.5)">
+    	<path stroke-dasharray="8,3" d="M 0 0 l 135 0" style="stroke:black;stroke-width:1" fill="none" />
+    	<path d="M 0 0 q  67.5 30 135 0" style="stroke:darkgrey;stroke-width:1" fill="none" />
+    	<g transform="translate(63.5,25) rotate(-202.5)">
+			<rect x="-18" y="0" width="25" height="16" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
   			<g transform="scale(1,-1)">
-  		<foreignObject x="-18" y="-32">$$\Delta x$$</foreignObject>
+				<foreignObject x="-18" y="-32" width="30" height="40">$$\Delta x$$</foreignObject>
+			</g>
   		</g>
-  		</g>
-    	</g>
+    </g>
     	
-    		<path d="M 0 68 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 17.5 0 17.5 17.5" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
-    			<path d="M 0 142 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 16.5 0 17.5 17.5" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
-    			
-    			<path stroke-dasharray="8,3" d="M 105 180 l 0 73" style="stroke:black;stroke-width:1" fill="none" />
-    			
-    			<path d="M 0 0 q -30 34 0 68" style="stroke:darkgrey;stroke-width:1" fill="none" />
-    			
-    			<path d="M 0 68 q -30 37 0 74" style="stroke:darkgrey;stroke-width:1" fill="none" />
-    			
-    			 <g transform="translate(-40,34)">
-  			<rect x="10" y="-2" width="25" height="14" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
-  		<g transform="scale(1,-1)">
-  		<foreignObject x="-18" y="-32"><span style="color:black">$$\frac{1}{\alpha}\frac{\Delta x}{c}$$</span></foreignObject>
+    <path d="M 0 68 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 17.5 0 17.5 17.5" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
+    <path d="M 0 142 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 16.5 0 17.5 17.5" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
+    <path stroke-dasharray="8,3" d="M 105 180 l 0 73" style="stroke:black;stroke-width:1" fill="none" />
+    <path d="M 0 0 q -30 34 0 68" style="stroke:darkgrey;stroke-width:1" fill="none" />
+    <path d="M 0 68 q -30 37 0 74" style="stroke:darkgrey;stroke-width:1" fill="none" />
+	
+    <g transform="translate(-40,34)">
+  		<rect x="10" y="-2" width="25" height="14" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
+		<g transform="scale(1,-1)">
+			<foreignObject x="-18" y="-32" width="50" height="80">$$\frac{1}{\alpha}\frac{\Delta x}{c}$$</foreignObject>
   		</g>
-  		</g> 
+  	</g> 
           
    <g transform="translate(-40,105)">
   		<rect x="10" y="-2" width="25" height="14" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
-  			<g transform="scale(1,-1)">
-  		<foreignObject x="-18" y="-32">$$\frac{1}{\alpha}\frac{\Delta x}{c}$$</foreignObject>
+  		<g transform="scale(1,-1)">
+			<foreignObject x="-18" y="-32" width="50" height="80">$$\frac{1}{\alpha}\frac{\Delta x}{c}$$</foreignObject>
   		</g>
-  		</g>
+  	</g>
   		
-  		<path d="M 105 180 q 30 36.5 0 73" style="stroke:darkgrey;stroke-width:1" fill="none" />
+  	<path d="M 105 180 q 30 36.5 0 73" style="stroke:darkgrey;stroke-width:1" fill="none" />
   		
-  		<g transform="translate(125,216.5)">
+  	<g transform="translate(125,216.5)">
   		<rect x="10" y="-2" width="25" height="14" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
   		<rect x="-13.5" y="-26.5" width="9" height="10" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
-  			<g transform="scale(1,-1)">
-  		<foreignObject x="-18" y="-32">$$\frac{1}{\alpha}\frac{\Delta x}{c}$$</foreignObject>
+  		<g transform="scale(1,-1)">
+			<foreignObject x="-18" y="-32" width="50" height="80">$$\frac{1}{\alpha}\frac{\Delta x}{c}$$</foreignObject>
   		</g>
-  		</g>
+  	</g>
   		
-  		<path d="M 105 180 q 36.5 -30 73 0" style="stroke:darkgrey;stroke-width:1" fill="none" />
+  	<path d="M 105 180 q 36.5 -30 73 0" style="stroke:darkgrey;stroke-width:1" fill="none" />
   		
-  		<g transform="translate(151.5,160)">
+  	<g transform="translate(151.5,160)">
   		<rect x="5" y="-14" width="25" height="16" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
-  			<g transform="scale(1,-1)">
-  		<foreignObject x="-18" y="-32">$$\frac{1}{\alpha}\Delta x$$</foreignObject>
+  		<g transform="scale(1,-1)">
+			<foreignObject x="-18" y="-32" width="50" height="80">$$\frac{1}{\alpha}\Delta x$$</foreignObject>
   		</g>
-  		</g>
+  	</g>
   		
-  		<path stroke-dasharray="8,3" d="M 105 253 l -105 0" style="stroke:black;stroke-width:1" fill="none" />
+  	<path stroke-dasharray="8,3" d="M 105 253 l -105 0" style="stroke:black;stroke-width:1" fill="none" />
   		
-  		<path d="M 0 180 q -30 37 0 74" style="stroke:darkgrey;stroke-width:1" fill="none" />
+  	<path d="M 0 180 q -30 37 0 74" style="stroke:darkgrey;stroke-width:1" fill="none" />
   		
-  		<path d="M 0 142 q -50 56 0 112" style="stroke:darkgrey;stroke-width:1" fill="none" />
+  	<path d="M 0 142 q -50 56 0 112" style="stroke:darkgrey;stroke-width:1" fill="none" />
   		
-  		<path d="M 0 254 q -50 52 0 104" style="stroke:darkgrey;stroke-width:1" fill="none" />
+  	<path d="M 0 254 q -50 52 0 104" style="stroke:darkgrey;stroke-width:1" fill="none" />
   		
-  		<path d="M 0 0 q -155 179 0 358" style="stroke:darkgrey;stroke-width:1" fill="none" />
+  	<path d="M 0 0 q -155 179 0 358" style="stroke:darkgrey;stroke-width:1" fill="none" />
   		
-  		 <g transform="translate(-40,237)">
+  	<g transform="translate(-40,237)">
   		<rect x="10" y="-2" width="25" height="14" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
-  			<g transform="scale(1,-1)">
-  		<foreignObject x="-18" y="-32">$$\frac{1}{\alpha}\frac{\Delta x}{c}$$</foreignObject>
+  		<g transform="scale(1,-1)">
+			<foreignObject x="-18" y="-32" width="50" height="80">$$\frac{1}{\alpha}\frac{\Delta x}{c}$$</foreignObject>
   		</g>
-  		</g>
+  	</g>
   		
-  		<g transform="translate(-50,306)">
+  	<g transform="translate(-50,306)">
   		<rect x="10" y="-2" width="25" height="14" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
-  			<g transform="scale(1,-1)">
-  		<foreignObject x="-40" y="-32">$$\frac{v}{c}\gamma\frac{(2\Delta x)}{c}$$</foreignObject>
+  		<g transform="scale(1,-1)">
+			<foreignObject x="-40" y="-32" width="80" height="80">$$\frac{v}{c}\gamma\frac{(2\Delta x)}{c}$$</foreignObject>
   		</g>
-  		</g>
+  	</g>
   		
-  			<g transform="translate(-50,176)">
+  	<g transform="translate(-50,176)">
   		<rect x="10" y="-2" width="25" height="14" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
-  			<g transform="scale(1,-1)">
-  		<foreignObject x="-40" y="-32">$$\frac{v}{c}\gamma\frac{(2\Delta x)}{c}$$</foreignObject>
+  		<g transform="scale(1,-1)">
+			<foreignObject x="-40" y="-32" width="80" height="80">$$\frac{v}{c}\gamma\frac{(2\Delta x)}{c}$$</foreignObject>
   		</g>
-  		</g>
+  	</g>
   		
-  		<g transform="translate(-100,220)">
+  	<g transform="translate(-100,220)">
   		<rect x="10" y="-2" width="25" height="14" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
-  			<g transform="scale(1,-1)">
-  		<foreignObject x="-40" y="-32">$$\alpha\frac{(2\Delta x)}{c}$$</foreignObject>
+  		<g transform="scale(1,-1)">
+			<foreignObject x="-40" y="-32" width="65" height="80">$$\alpha\frac{(2\Delta x)}{c}$$</foreignObject>
   		</g>
-  		</g>
+  	</g>
   		
-  		<path d="M 0 180 q 50 89 0 178" style="stroke:darkgrey;stroke-width:1" fill="none" />
+  	<path d="M 0 180 q 50 89 0 178" style="stroke:darkgrey;stroke-width:1" fill="none" />
   		
-  		<g transform="translate(30,269)">
+  	<g transform="translate(30,269)">
   		<rect x="5" y="-14" width="25" height="16" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
-  			<g transform="scale(1,-1)">
-  		<foreignObject x="-18" y="-32">$$\alpha\frac{\Delta x}{c}$$</foreignObject>
+  		<g transform="scale(1,-1)">
+			<foreignObject x="-18" y="-32" width="50" height="80">$$\alpha\frac{\Delta x}{c}$$</foreignObject>
   		</g>
-  		</g>
+  	</g>
   		
-  		<g transform="rotate(67.5) translate(68,-20) rotate(-67.5)">
-  	
+  	<g transform="rotate(67.5) translate(68,-20) rotate(-67.5)">
   		<rect x="-8" y="-2" width="20" height="16" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
-  			<g transform="scale(1,-1)">
-  		<foreignObject x="-18" y="-32">$$\frac{\Delta x}{c}$$</foreignObject>
+  		<g transform="scale(1,-1)">
+			<foreignObject x="-18" y="-32" width="40" height="80">$$\frac{\Delta x}{c}$$</foreignObject>
   		</g>
-  		</g>
+  	</g>
   		
-  		<g transform="rotate(67.5) translate(224,20) rotate(-67.5)">
+  	<g transform="rotate(67.5) translate(224,20) rotate(-67.5)">
   		<rect x="-8" y="-2" width="20" height="16" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
-  			<g transform="scale(1,-1)">
-  		<foreignObject x="-18" y="-32">$$\frac{\Delta x}{c}$$</foreignObject>
+  		<g transform="scale(1,-1)">
+			<foreignObject x="-18" y="-32" width="40" height="80">$$\frac{\Delta x}{c}$$</foreignObject>
   		</g>
-  		</g>
+  	</g>
   		
-    	</g>
-  </svg>
+</g>
+</svg>
 </center>
 So inferred distance that observer B infers to be distance from A to C from his point of view is
 
