@@ -1,5 +1,7 @@
+
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css"> <script src="http://tikzjax.com/v1/tikzjax.js"></script>
+
 <span style="color:red">This is not done. Much effort is needed to polish this out to be clear, insightful, readable, logical and self-contained.</span>
 
 # Note on Special Relativity
@@ -67,74 +69,69 @@ $$\frac{c}{v}\Delta t'=\frac{1}{\sqrt{1-(v/c)^2}}\Delta t=\gamma \Delta t$$
 
 <center>
 <svg width="360" height="405" viewBox="0 0 400 450">
-
-  <g transform="translate(50,0)">
-
-  <line x1="-50" y1="400" x2="340" y2="400" style="stroke:black;stroke-width:1" />
-  	<g transform="translate(340,400)">
-  	<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
-  	<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
-  	<foreignObject x="0" y="5">\(x\)</foreignObject>
-  	</g>
-
-  <line x1="20" y1="450" x2="20" y2="10" style="stroke:black;stroke-width:1" />
-  	<g transform="translate(20,10) rotate(-90)">
-  	<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
-  	<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
+<g transform="translate(50,0)">
+	<line x1="-50" y1="400" x2="340" y2="400" style="stroke:black;stroke-width:1" />
+	<g transform="translate(340,400)">
+		<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
+		<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
+		<foreignObject x="0" y="5" width="10" height="25">\(x\)</foreignObject>
+	</g>
+	<line x1="20" y1="450" x2="20" y2="10" style="stroke:black;stroke-width:1" />
+	<g transform="translate(20,10) rotate(-90)">
+		<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
+		<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
   		<g transform="rotate(90)">
-  		<foreignObject x="10" y="-10">\(t\)</foreignObject>
+			<foreignObject x="10" y="-10" width="10" height="25">\(t\)</foreignObject>
   		</g>
   	</g>
-
   	<g transform="translate(20,400)">
   		<g transform="rotate(-60)">
-  		<line x1="0" y1="0" x2="400" y2="0" style="stroke:black;stroke-width:1" />
-  		<path d="M 0 0 q 124 22 248 0" style="stroke:darkgrey;stroke-width:1" fill="none" />
+			<line x1="0" y1="0" x2="400" y2="0" style="stroke:black;stroke-width:1" />
+			<path d="M 0 0 q 124 22 248 0" style="stroke:darkgrey;stroke-width:1" fill="none" />
 
   			<g transform="translate(248,0)">
 
   				<g transform="rotate(60)">
-  				<path stroke-dasharray="8,3" d="M 0 0 -125 0" style="stroke:black;stroke-width:1" fill="none" />
+					<path stroke-dasharray="8,3" d="M 0 0 -125 0" style="stroke:black;stroke-width:1" fill="none" />
 				</g>
   				<g transform="translate(-124,0) rotate(60)">
-  				<rect x="2" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
-  				<foreignObject x="0" y="-6" fill="black">\(\Delta t\)</foreignObject> 
+					<rect x="2" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
+					<foreignObject x="0" y="-6" fill="black" width="30" height="25">\(\Delta t\)</foreignObject> 
   				</g>
   				<g transform="rotate(-30)">
-  				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 20 -20" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
+					<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 20 -20" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none" />
   				</g>
   				<g transform="rotate(-120)">
-  				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 20 -20" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
+					<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 20 -20" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none" />
   				</g>
 
   			</g>
 
   		</g>
 
-  	<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
+		<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none" />
 
-  	<path d="M 0 0 q -20 -45 0 -90" style="stroke:darkgrey;stroke-width:1" fill="none" />
-  		<g transform="translate(-26,-45)">
-  		<rect x="0" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
-  		<foreignObject x="-18" y="-32" fill="black">$$\frac{1}{\alpha}\Delta t$$</foreignObject>
+		<path d="M 0 0 q -20 -45 0 -90" style="stroke:darkgrey;stroke-width:1" fill="none" />
+		<g transform="translate(-26,-45)">
+			<rect x="0" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
+			<foreignObject x="-18" y="-32" fill="black" width="40" height="80">$$\frac{1}{\alpha}\Delta t$$</foreignObject>
   		</g> 
 
-  	<path d="M 0 0 q -40 -107.5 0 -215" style="stroke:darkgrey;stroke-width:1" fill="none" />
+		<path d="M 0 0 q -40 -107.5 0 -215" style="stroke:darkgrey;stroke-width:1" fill="none" />
   		<g transform="translate(-40,-107.5)">
-  		<rect x="2" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
-  		<foreignObject x="0" y="-22" fill="black">$$\gamma\Delta t$$</foreignObject>
+			<rect x="2" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
+			<foreignObject x="0" y="-22" fill="black" width="40" height="55">$$\gamma\Delta t$$</foreignObject>
   		</g> 
 
-  	<path d="M 0 0 q -60 -170 0 -340" style="stroke:darkgrey;stroke-width:1" fill="none" />
+		<path d="M 0 0 q -60 -170 0 -340" style="stroke:darkgrey;stroke-width:1" fill="none" />
   		<g transform="translate(-60,-170)">
-  		<rect x="8" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
-  		<foreignObject x="6" y="-22" fill="black">$$\alpha\Delta t$$</foreignObject>
+			<rect x="8" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
+			<foreignObject x="6" y="-22" fill="black" width="40" height="55">$$\alpha\Delta t$$</foreignObject>
   		</g> 
   	</g>
 
-  </g>
+</g>
 </svg>
-
 </center>
 
 Also the inferred time could be expressed in terms of observed time.
