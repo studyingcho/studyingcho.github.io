@@ -150,103 +150,101 @@ $$\alpha\left(\Delta t-\frac{v}{c}\Delta t\right)=\frac{1}{\alpha}\left(\Delta t
 
 <center>
 <svg width="360" height="405" viewBox="0 0 400 450">
+<g transform="translate(50,0)">
 
-  <g transform="translate(50,0)">
+	<line x1="-50" y1="400" x2="340" y2="400" style="stroke:black;stroke-width:1" />
+	<g transform="translate(340,400)">
+		<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
+		<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
+		<foreignObject x="0" y="5" width="10" height="25">\(x\)</foreignObject>
+	</g>
 
-  <line x1="-50" y1="400" x2="340" y2="400" style="stroke:black;stroke-width:1" />
-  		<g transform="translate(340,400)">
-  	<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
-  	<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
-  	<foreignObject x="0" y="5">\(x\)</foreignObject>
-  	</g>
-
-  <line x1="20" y1="450" x2="20" y2="10" style="stroke:black;stroke-width:1" />
+	<line x1="20" y1="450" x2="20" y2="10" style="stroke:black;stroke-width:1" />
   	<g transform="translate(20,10) rotate(-90)">
-  	<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
-  	<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
+		<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
+		<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
   		<g transform="rotate(90)">
-  		<foreignObject x="10" y="-10">\(t\)</foreignObject>
+			<foreignObject x="10" y="-10" width="10" height="25">\(t\)</foreignObject>
   		</g>
   	</g>
   	
-      <g transform="translate(20,400)">
-  		<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
+	<g transform="translate(20,400)">
+		<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
 
-   <g transform="rotate(-60)">
-  		<line x1="0" y1="0" x2="425" y2="0" style="stroke:black;stroke-width:1" />
-  		<path d="M 0 0 q 124 35 248 0" style="stroke:black;stroke-width:1" fill="none" />
-   <path d="M 102 0 Q 175 20 248 0" style="stroke:grey;stroke-width:1" fill="none" />
-   <path d="M 248 0 Q 309 20 370 0" style="stroke:grey;stroke-width:1" fill="none" />
-   <g transform="translate(175,5) rotate(60)">
+		<g transform="rotate(-60)">
+			<line x1="0" y1="0" x2="425" y2="0" style="stroke:black;stroke-width:1" />
+			<path d="M 0 0 q 124 35 248 0" style="stroke:black;stroke-width:1" fill="none" />
+			<path d="M 102 0 Q 175 20 248 0" style="stroke:grey;stroke-width:1" fill="none" />
+			<path d="M 248 0 Q 309 20 370 0" style="stroke:grey;stroke-width:1" fill="none" />
+			
+			<g transform="translate(175,5) rotate(60)">
   				<rect x="2" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
-  					<rect x="2" y="-13" width="14" height="40" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
-  				<foreignObject x="0" y="-28"><span style="color:rgb(90,90,90)">$$\frac{v}{c}\Delta t$$</span></foreignObject> 
-  				</g>
-    <g transform="translate(309,5) rotate(60)">
+  				<rect x="2" y="-13" width="14" height="40" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
+  				<foreignObject x="0" y="-28" width="40" height="80"><span style="color:rgb(90,90,90)">$$\frac{v}{c}\Delta t$$</span></foreignObject> 
+  			</g>
+			<g transform="translate(309,5) rotate(60)">
   				<rect x="2" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
-  					<rect x="2" y="-13" width="14" height="40" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
-  				<foreignObject x="0" y="-28"><span style="color:rgb(90,90,90)">$$\frac{v}{c}\Delta t$$</span></foreignObject> 
-  				</g> 
+				<rect x="2" y="-13" width="14" height="40" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
+  				<foreignObject x="0" y="-28" width="40" height="80"><span style="color:rgb(90,90,90)">$$\frac{v}{c}\Delta t$$</span></foreignObject> 
+			</g> 
   			<g transform="translate(248,0)">
-
   				<g transform="rotate(60)">
-  				<path stroke-dasharray="8,3" d="M 0 0 -125 0" style="stroke:black;stroke-width:1" fill="none" />
+					<path stroke-dasharray="8,3" d="M 0 0 -125 0" style="stroke:black;stroke-width:1" fill="none" />
 		  		</g>
   				<g transform="translate(-124,5) rotate(60)">
-  				<rect x="2" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
-  				<foreignObject x="0" y="-6" fill="black">\(\Delta t\)</foreignObject> 
+					<rect x="2" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
+					<foreignObject x="0" y="-6" fill="black" width="30" height="25">\(\Delta t\)</foreignObject> 
   				</g>
-                                <g transform="rotate(-30)">
-  				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 20 -20" style="stroke:khaki;stroke-width:1.5" fill="none"/>
+				<g transform="rotate(-30)">
+					<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 20 -20" style="stroke:khaki;stroke-width:1.5" fill="none"/>
   				</g>
   				<g transform="rotate(-120)">
-  				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 20 -20" style="stroke:khaki;stroke-width:1.5" fill="none"/>
-  					</g>
+					<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 20 -20" style="stroke:khaki;stroke-width:1.5" fill="none"/>
+				</g>
   				
-	  		<g transform="rotate(-150)">
-	   <path stroke-dasharray="8,3" d="M 0 0 140 0" style="stroke:black;stroke-width:1" fill="none" />
-  			</g>
-</g>
+				<g transform="rotate(-150)">
+					<path stroke-dasharray="8,3" d="M 0 0 140 0" style="stroke:black;stroke-width:1" fill="none" />
+				</g>
+			</g>
   		</g>
         
-   <path d="M 0 0 q -20 -40 0 -90" style="stroke:darkgrey;stroke-width:1" fill="none" />
+		<path d="M 0 0 q -20 -40 0 -90" style="stroke:darkgrey;stroke-width:1" fill="none" />
           
-   <path d="M 0 0 q -40 -70 0 -140" style="stroke:black;stroke-width:1" fill="none" />
+		<path d="M 0 0 q -40 -70 0 -140" style="stroke:black;stroke-width:1" fill="none" />
           
-  	<path d="M 0 0 q -60 -107.5 0 -215" style="stroke:darkgrey;stroke-width:1" fill="none" />
+		<path d="M 0 0 q -60 -107.5 0 -215" style="stroke:darkgrey;stroke-width:1" fill="none" />
 
-  	<path d="M 0 0 q -80 -170 0 -340" style="stroke:darkgrey;stroke-width:1" fill="none" />
+		<path d="M 0 0 q -80 -170 0 -340" style="stroke:darkgrey;stroke-width:1" fill="none" />
   		<g transform="translate(-80,-170)">
-  		<rect x="24" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
-  		<foreignObject x="12" y="-22"><span style="color:grey">$$\alpha\Delta t$$</span></foreignObject>
+			<rect x="24" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
+			<foreignObject x="12" y="-22" width="40" height="55"><span style="color:grey">$$\alpha\Delta t$$</span></foreignObject>
   		</g> 
           
-   <g transform="translate(-26,-30)">
-  		<rect x="0" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
-  		<foreignObject x="-18" y="-32"><span style="color:grey">$$\frac{1}{\alpha}\Delta t$$</span></foreignObject>
+		<g transform="translate(-26,-30)">
+			<rect x="0" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
+			<foreignObject x="-18" y="-32" width="40" height="80"><span style="color:grey">$$\frac{1}{\alpha}\Delta t$$</span></foreignObject>
   		</g> 
           
-   <g transform="translate(-40,-85)">
-  		<rect x="0" y="4" width="25" height="16" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
-  		<foreignObject x="-9" y="-25">$$\frac{1}{\gamma}\Delta t$$</foreignObject>
+		<g transform="translate(-40,-85)">
+			<rect x="0" y="4" width="25" height="16" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
+			<foreignObject x="-9" y="-25" width="40" height="80">$$\frac{1}{\gamma}\Delta t$$</foreignObject>
   		</g>
           
-   <g transform="translate(-60,-107.5)">
-  		<rect x="10" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
-  		<foreignObject x="6" y="-22"><span style="color:grey">$$\gamma\Delta t$$</span></foreignObject>
+		<g transform="translate(-60,-107.5)">
+			<rect x="10" y="-3" width="25" height="16" style="fill:white;stroke-width:0;stroke:rgb(0,0,0)" />
+			<foreignObject x="6" y="-22" width="40" height="55"><span style="color:grey">$$\gamma\Delta t$$</span></foreignObject>
   		</g> 
           
-    <g transform="rotate(-60)">  
-    <g transform="translate(102,0) rotate(-30)">
+		<g transform="rotate(-60)">  
+			<g transform="translate(102,0) rotate(-30)">
   				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 7 0 7 -7" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
-  				</g>
-  				<g transform="translate(370,0) rotate(-120)">
+  			</g>
+  			<g transform="translate(370,0) rotate(-120)">
   				<path d="M 0 0 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 15 -15 q 0 -15 15 -15 q 15 0 20 -20" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
-  				</g>
-    </g>
+  			</g>
+		</g>
   	</g>
-    
-  </g>
+</g>
 </svg>
 </center>
 
