@@ -446,7 +446,7 @@ Geometic symmetry between inferred time and inferred distance is shown at below 
   	<line x1="-6" y1="-6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
   	<line x1="-6" y1="6" x2="0" y2="0" style="stroke:black;stroke-width:1" />
   	<g transform="rotate(-90) scale(1,-1)">
-  	<foreignObject x="5" y="-10" width="10" height="25"">\(t\)</foreignObject>
+  	<foreignObject x="5" y="-10" width="10" height="25">\(t\)</foreignObject>
   	</g>
   	</g>
   	
