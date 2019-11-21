@@ -531,14 +531,14 @@ You can see the geometry of the above equation in the following figure.
   		</g>
   		</g>
     
-    		<path d="M 0 105 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
+    		<path d="M 0 105 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15" style="stroke:khaki;stroke-width:1.5" fill="none"/>
     		
     		<g transform="translate(0 105) rotate(-90)">
     		<path d="M 0 0 q 0 15 15 15 q 15 0 15 15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
     	</g>
       
     		<g transform="translate(0 179.5) rotate(-90)">
-    		<path d="M 0 0 q 0 13.25 13.25 13.25 q 13.25 0 13.25 13.25 q 0 13.25 13.25 13.25 q 13.25 0 13.25 13.25" style="stroke:khaki;stroke-width:1.5" fill="none"/>
+    		<path d="M 0 0 q 0 13.25 13.25 13.25 q 13.25 0 13.25 13.25 q 0 13.25 13.25 13.25 q 13.25 0 13.25 13.25" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
      </g>
       
     	</g>
