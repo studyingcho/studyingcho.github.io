@@ -430,7 +430,7 @@ $$\begin{eqnarray}&&\frac{1}{\alpha}\Delta x+\frac{v}{c}\frac{1}{\alpha}\Delta x
 
 Geometic symmetry between inferred time and inferred distance is shown at below picture.
  <center>
-<svg xmlns="http://www.w3.org/2000/svg" "width="405" height="405" viewBox="-60 -20 290 290">
+<svg xmlns="http://www.w3.org/2000/svg" width="405" height="405" viewBox="-60 -20 290 290">
   <g transform="scale(1,-1) translate(0,-250)">
   <line x1="-60" y1="0" x2="210" y2="0" style="stroke:black;stroke-width:1" />
   		<g transform="translate(210,0)">
