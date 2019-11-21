@@ -427,8 +427,8 @@ You can easily see that
 $$\begin{eqnarray}&&\alpha \Delta x-v\frac{\alpha \Delta x}{c}\\&=&\alpha c\left(\frac{\Delta x}{c}-\frac{v}{c}\frac{\Delta x}{c}\right)=\frac{1}{\gamma}\Delta x\end{eqnarray}$$
 
 You can see the geometry of the above equation in the following figure.
- <center>
-<svg xmlns="http://www.w3.org/2000/svg" "width="405" height="405" viewBox="-60 -20 290 290">
+<center>
+<svg xmlns="http://www.w3.org/2000/svg" width="405" height="405" viewBox="-60 -20 290 290">
   <g transform="scale(1,-1) translate(0,-250)">
   <line x1="-60" y1="0" x2="210" y2="0" style="stroke:black;stroke-width:1" />
   		<g transform="translate(210,0)">
@@ -498,7 +498,7 @@ You can see the geometry of the above equation in the following figure.
   	
   		<rect x="-8" y="-2" width="20" height="16" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
   			<g transform="scale(1,-1)">
-  		<foreignObject x="-18" y="-32" width="40" height="60"><span style="font-size:0.8em;"">$$\frac{v}{c}\frac{\Delta x}{c}$$</span></foreignObject>
+  		<foreignObject x="-18" y="-32" width="40" height="60"><span style="font-size:0.8em;">$$\frac{v}{c}\frac{\Delta x}{c}$$</span></foreignObject>
   		</g>
   		</g>
   		
