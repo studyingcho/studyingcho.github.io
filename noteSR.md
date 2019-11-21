@@ -455,8 +455,7 @@ You can see the geometry of the above equation in the following figure.
   	<path d="M 0 0 q 68 -30 136 0" style="stroke:darkgrey;stroke-width:1" fill="none" />
   	<path d="M 136 0 q 68 30 136 0" style="stroke:darkgrey;stroke-width:1" fill="none" />
   <path d="M 81 0 q 28 -30 56 0" style="stroke:darkgrey;stroke-width:1" fill="none" />
-  	<path d="M 137 0 q 29 -30 58 0" style="stroke:darkgrey;stroke-width:1" fill="none" />
-   </g>
+  	</g>
   
   <g transform="translate(105,0) rotate(67.5)">
   	<line x1="0" y1="0" x2="400" y2="0" style="stroke:black;stroke-width:1" />
@@ -496,13 +495,6 @@ You can see the geometry of the above equation in the following figure.
    
    <g transform="rotate(67.5) translate(109,-20) rotate(-67.5)">
   	
-  		<rect x="-8" y="-2" width="20" height="16" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
-  			<g transform="scale(1,-1)">
-  		<foreignObject x="-18" y="-32" width="40" height="60"><span style="font-size:0.8em;">$$\frac{v}{c}\frac{\Delta x}{c}$$</span></foreignObject>
-  		</g>
-  		</g>
-  		
-  		<g transform="rotate(67.5) translate(166,-20) rotate(-67.5)">
   		<rect x="-8" y="-2" width="20" height="16" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
   			<g transform="scale(1,-1)">
   		<foreignObject x="-18" y="-32" width="40" height="60"><span style="font-size:0.8em;">$$\frac{v}{c}\frac{\Delta x}{c}$$</span></foreignObject>
