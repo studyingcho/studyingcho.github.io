@@ -476,7 +476,7 @@ Geometic symmetry between inferred time and inferred distance is shown at below 
     		<g transform="translate(63.5,25) rotate(-202.5)">
   		<rect x="-18" y="0" width="25" height="16" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
   			<g transform="scale(1,-1)">
-  		<foreignObject x="-20" y="-30" width="30" height="40"">$$\Delta x$$</foreignObject>
+  		<foreignObject x="-20" y="-30" width="30" height="40">$$\Delta x$$</foreignObject>
   		</g>
   		</g>
     	</g>
@@ -527,7 +527,7 @@ Geometic symmetry between inferred time and inferred distance is shown at below 
   		<rect x="-15" y="-28" width="15" height="16" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
   		<rect x="5" y="-1" width="25" height="16" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
   			<g transform="scale(1,-1)">
-  		<foreignObject x="-18" y="-32" width="50" height="60"">$$\frac{1}{\gamma}\frac{\Delta x}{c}$$</foreignObject>
+  		<foreignObject x="-18" y="-32" width="50" height="60">$$\frac{1}{\gamma}\frac{\Delta x}{c}$$</foreignObject>
   		</g>
   		</g>
     	
