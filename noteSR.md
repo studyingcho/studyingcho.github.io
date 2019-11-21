@@ -500,7 +500,7 @@ Geometic symmetry between inferred time and inferred distance is shown at below 
   	
   		<rect x="-8" y="-2" width="20" height="16" style="fill:white;stroke-width:0;	stroke:rgb(0,0,0)" />
   			<g transform="scale(1,-1)">
-  		<foreignObject x="-18" y="-32" width="40" height="60"><span style="font-size:0.8em;"">$$\frac{v}{c}\frac{\Delta x}{c}$$</span></foreignObject>
+  		<foreignObject x="-18" y="-32" width="40" height="60"><span style="font-size:0.8em;">$$\frac{v}{c}\frac{\Delta x}{c}$$</span></foreignObject>
   		</g>
   		</g>
   		
