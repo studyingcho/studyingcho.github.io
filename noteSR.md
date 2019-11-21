@@ -948,12 +948,6 @@ Geometic symmetry between inferred time and inferred distance is shown at below 
   		</g>
   	</g>
     	
-    	<path d="M 0 105 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15 q 15 0 15 15 q 0 15 15 15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
-    		
-    	<g transform="translate(0 105) rotate(-90)">
-    		<path d="M 0 0 q 0 15 15 15 q 15 0 15 15" style="stroke:rgb(255, 195, 56);stroke-width:1.5" fill="none"/>
-    	</g>
-    	
 </g>
 </svg>
 </center>
