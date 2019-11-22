@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Introduction to Relativity</title>
+
+		<link rel="stylesheet" href="reveal_js/css/reset.css">
+		<link rel="stylesheet" href="reveal_js/css/reveal.css">
+		<link rel="stylesheet" href="reveal_js/css/theme/white.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="reveal_js/lib/css/monokai.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal_js/css/print/pdf.css' : 'reveal_js/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+		<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+		<style>
+		.content{
+		font-size:0.5em;
+		}
+		</style>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section><h1>Introduction to Relativity</h1></section>
+				<section><h2>Special Relativity</h2>
+				<div class="content">
+				$$\gamma \Delta t=\frac{1}{2}\left(\alpha-\frac{1}{\alpha}\right)\Delta t$$
+				$$\gamma \Delta t=\frac{c}{c-v}\left(\frac{1}{\alpha}\Delta t\right)=\frac{c}{c+v}(\alpha\Delta t)$$
+				</div>
+				</section>
+				<section><h2>Special Relativity</h2>
+				$$c=1$$
+				\(1\) \(s\) \(=\) \(299,792,458\) \(m\)</section>
+			</div>
+		</div>
+
+		<script src="reveal_js/js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'reveal_js/plugin/markdown/marked.js' },
+					{ src: 'reveal_js/plugin/markdown/markdown.js' },
+					{ src: 'reveal_js/plugin/notes/notes.js', async: true },
+					{ src: 'reveal_js/plugin/highlight/highlight.js', async: true }
+				]
+			});
+		</script>
+	</body>
+</html>
