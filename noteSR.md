@@ -140,7 +140,7 @@ $$\gamma \Delta t =\frac{c}{c-v}\left(\frac{1}{\alpha}\Delta t\right)=\frac{c}{c
 
 Also
 
-$$\gamma \Delta t=\frac{1}{2}\left(\alpha-\frac{1}{\alpha}\right)\Delta t$$
+$$\gamma \Delta t=\frac{1}{2}\left(\alpha+\frac{1}{\alpha}\right)\Delta t$$
 
 ,i.e., simultanity is assumed to be the middle point between received times of forward light and backward light.
 
