@@ -1,5 +1,5 @@
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>
 <link rel="stylesheet" type="text/css" href="http://tikzjax.com/v1/fonts.css"> <script src="http://tikzjax.com/v1/tikzjax.js"></script>
 
 <span style="color:red">This is not done. Much effort is needed to polish this out to be clear, insightful, readable, logical and self-contained.</span>
