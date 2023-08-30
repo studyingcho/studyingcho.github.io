@@ -4,6 +4,7 @@ I am Kihyub Cho. I am interested in:
 * Study of Japanese Conversation
 * Study of Classical Texts written by the Old Chinese Characters
 * Study of Sanskrit Language
+
 This is how i have grown up:
 * Born in Seoul, Republic of Korea (1990.11)
 * Studied in Sangsan High School, Jeonju-si, Korea (2006.03-2008.03)
