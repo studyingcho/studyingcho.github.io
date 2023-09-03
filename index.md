@@ -5,7 +5,7 @@ I am Kihyun Cho. I am interested in:
 * Study of Classical Texts written by the Old Chinese Characters
 * Study of Sanskrit Language
 
-This is how i have grown up:
+This is how I have grown up:
 * Born in Seoul, Republic of Korea (1990.11)
 * Educated at Posung Middle School, Seoul, Korea (2003.03-2006.03)
 * Studied in Sangsan High School, Jeonju-si, Korea (2006.03-2008.03)
