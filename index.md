@@ -15,4 +15,4 @@ This is how I have grown up:
 * Hired as a Senior Manager by SKhynix, Icheon-si, Korea (2018.02-Up to now(2023.08))
 
 Some classical texts written by the old chinese characters:
-* [心經(Heart Mind Classic, 심경)](simgyoung.md)
+* [心經 (Heart Mind Classic, 심경)](simgyoung.md)
