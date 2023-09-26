@@ -16,3 +16,4 @@ This is how I have grown up:
 
 Some classical texts written by the old chinese characters:
 * [心經 (Heart Mind Classic, 심경)](simgyoung.md)
+* [通書 (The All-Embracing Book, 통서)](tongseo.md)
