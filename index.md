@@ -13,3 +13,6 @@ This is how I have grown up:
 * Achieved an Undergraduate Degree at KAIST, Daejeon, Korea (2008.02-2012.02)
 * Got a Degree of Ph.D. at KAIST, Daejeon, Korea (2012.02-2018.02)
 * Hired as a Senior Manager by SKhynix, Icheon-si, Korea (2018.02-Up to now(2023.08))
+
+Some classical texts written by the old chinese characters:
+* [心經](simgyoung.md)
