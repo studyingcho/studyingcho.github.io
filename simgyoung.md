@@ -1,4 +1,7 @@
 # 心經심경
+
+* Good korean translation: [here](http://blog.naver.com/yula_777/221462927208)
+
 > 帝曰 人心惟危 道心惟微 惟精惟一 允執厥中  
 > 제왈 인심유위 도심유미 유정유일 윤집궐중
 
