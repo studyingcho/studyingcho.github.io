@@ -1,4 +1,5 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>
+# 조기현 (趙基顯)
+
 I am Kihyun Cho. I am interested in:
 * Study of Theoretical Physics
 * Study of Japanese Conversation
