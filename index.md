@@ -13,8 +13,9 @@ This is how I have grown up:
 * Studied in Sangsan High School, Jeonju-si, Korea (2006.03-2008.03)
 * Achieved an Undergraduate Degree at KAIST, Daejeon, Korea (2008.02-2012.02)
 * Got a Degree of Ph.D. at KAIST, Daejeon, Korea (2012.02-2018.02)
-* Hired as a Senior Manager by SKhynix, Icheon-si, Korea (2018.02-Up to now(2023.08))
+* Hired as a Senior Manager by SKhynix, Icheon-si, Korea (2018.02-Up to now(2023.09))
 
 Some classical texts written by the old chinese characters:
-* [心經 (Heart Mind Classic, 심경)](simgyoung.md)
+* 心經 (Heart Mind Classic, 심경)
+ * [ver. 1 by 2023.09.27](/hanmun/simgyoung_v1.md)
 * [通書 (The All-Embracing Book, 통서)](tongseo.md)
