@@ -321,4 +321,8 @@
 > 造次克念 戰兢自持 習與性成 聖賢同歸  
 > 조차극념 전긍자지 습여성성 성현동귀
 
+## 范범
+
+## 朱주
+
 * Good korean translation: [here](http://blog.naver.com/yula_777/221462927208)
