@@ -15,12 +15,12 @@ This is how I have grown up:
 * Got a Degree of Ph.D. at KAIST, Daejeon, Korea (2012.02-2018.02)
 * Hired as a Senior Manager by SKhynix, Icheon-si, Korea (2018.02-Up to now(2023.10))
 
-Some theoretical physics:
+Some theoretical physics (in korean):
 * 초급물리학 (Elementary Physics)
   * [ver. 0.4 by 2023.10.04](/physics/elementary_v0_4.md)
   * [under working](/physics/elementary.md)
 
-Some classical texts written by the old chinese characters:
+Some classical texts written by the old chinese characters (with korean pronounciation):
 * 心經 (Heart Mind Classic, 심경)
   * [ver. 1 by 2023.09.27](/hanmun/simgyoung_v1.md)
 * [通書 (The All-Embracing Book, 통서)](/hanmun/tongseo.md)
