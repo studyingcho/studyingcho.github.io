@@ -19,6 +19,7 @@ Some theoretical physics (in korean):
 * 초급물리학 (Elementary Physics)
   * [ver. 0.4 by 2023.10.04](/physics/elementary_v0_4.md)
   * [ver. 0.45 by 2023.10.05](/physics/elementary_v0_45.md)
+  * [under working](/physics/elementary.md)
 
 Some classical texts written by the old chinese characters (with korean pronounciation):
 * 心經 (Heart Mind Classic, 심경)
