@@ -26,3 +26,5 @@ Some classical texts written by the old chinese characters (with korean pronounc
   * [心經略章심경약장 (ver. 1) by 2023.09.27](/hanmun/simgyoung_v1.md)
   * [心經正要심경정요 (under working)](/hanmun/simgyoung.md)
 * [通書 (The All-Embracing Book, 통서)](/hanmun/tongseo.md)
+* 擊蒙要訣 (The Secret of Expelling Ignorance, 격몽요결)
+  * [under working](/hanmun/gyukmong.md)
