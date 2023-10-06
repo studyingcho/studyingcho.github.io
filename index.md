@@ -23,6 +23,6 @@ Some theoretical physics (in korean):
 
 Some classical texts written by the old chinese characters (with korean pronounciation):
 * 心經 (Heart Mind Classic, 심경)
-  * [ver. 1 by 2023.09.27](/hanmun/simgyoung_v1.md)
-  * [under working](/hanmun/simgyoung.md)
+  * [心經略章심경약장 (ver. 1) by 2023.09.27](/hanmun/simgyoung_v1.md)
+  * [心經正要심경정요 (under working)](/hanmun/simgyoung.md)
 * [通書 (The All-Embracing Book, 통서)](/hanmun/tongseo.md)
