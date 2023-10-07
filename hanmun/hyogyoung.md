@@ -26,3 +26,5 @@
 
 《大雅》云：『無念爾祖，聿脩厥德。』」  
 대아 운 무념이조 율수궐덕  
+
+* Reference text: [here](https://ctext.org/xiao-jing/zh)
