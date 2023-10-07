@@ -8,3 +8,4 @@ The list of files in this folder:
 * [通書통서](tongseo.md)
 * 擊蒙要訣격몽요결
   * [擊蒙要訣校補격몽요결교보 (under working)](gyukmong.md)
+* [孝經효경](hyogyoung.md)
