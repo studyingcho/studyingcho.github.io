@@ -28,3 +28,4 @@ Some classical texts written by the old chinese characters (with korean pronounc
 * [通書 (The All-Embracing Book, 통서)](/hanmun/tongseo.md)
 * 擊蒙要訣 (The Secret of Expelling Ignorance, 격몽요결)
   * [擊蒙要訣校補격몽요결교보 (under working)](/hanmun/gyukmong.md)
+* [孝經 (Classic of Filial Piety, 효경)](/hanmun/hyogyoung.md)
