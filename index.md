@@ -30,6 +30,6 @@ Some classical texts written by the old chinese characters (with korean pronounc
 * 擊蒙要訣 (The Secret of Expelling Ignorance, 격몽요결)
   * [擊蒙要訣校補격몽요결교보 (under working)](/hanmun/gyukmong.md)
 * 孝經 (Classic of Filial Piety, 효경)
-  * [孝經普評효경보평 (under working)](/hanmun/hyogyoung.md)
+  * [孝經普評효경보평 (ver. 1) by 2023.10.16](/hanmun/hyogyoung.md)
 * 大學 (the Great Learning, 대학)
   * [大學章句대학장구 (under working)](/hanmun/daehak.md)
