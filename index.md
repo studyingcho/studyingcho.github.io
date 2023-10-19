@@ -21,6 +21,7 @@ Some theoretical physics (in korean):
   * [ver. 0.45 by 2023.10.05](/physics/elementary_v0_45.md)
   * [ver. 0.5 by 2023.10.18](/physics/elementary_v0_5.md)
   * [under working](/physics/elementary.md)
+* 고급물리학 (Advanced Physics)
 
 Some classical texts written by the old chinese characters (with korean pronounciation):
 * 心經 (Heart Mind Classic, 심경)
