@@ -12,5 +12,5 @@ The list of files in this folder:
 * 孝經효경
   * [孝經普評효경보평 (ver. 1) by 2023.10.16](hyogyoung_v1.md)
 * 大學대학
-  * [大學章句대학장구 (under working)](daehak.md)
+  * [大學章句硏補대학장구연보 (under working)](daehak.md)
 
