@@ -35,4 +35,4 @@ Some classical texts written by the old chinese characters (with korean pronounc
 * 孝經 (Classic of Filial Piety, 효경)
   * [孝經普評효경보평 (ver. 1) by 2023.10.16](/hanmun/hyogyoung_v1.md)
 * 大學 (the Great Learning, 대학)
-  * [大學章句대학장구 (under working)](/hanmun/daehak.md)
+  * [大學章句硏補대학장구연보 (under working)](/hanmun/daehak.md)
