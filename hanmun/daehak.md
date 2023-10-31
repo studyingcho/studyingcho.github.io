@@ -110,5 +110,3 @@
 시고군자무소불용기극  
 
 * Reference text: [here](https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju1/zh)
-
-* Reference text: [here](https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju1/zh)
