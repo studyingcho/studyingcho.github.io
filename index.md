@@ -13,14 +13,14 @@ This is how I have grown up:
 * Studied in Sangsan High School, Jeonju-si, Korea (2006.03-2008.03)
 * Achieved an Undergraduate Degree at KAIST, Daejeon, Korea (2008.02-2012.02)
 * Got a Degree of Ph.D. at KAIST, Daejeon, Korea (2012.02-2018.02)
-* Hired as a Senior Manager by SKhynix, Icheon-si, Korea (2018.02-Up to now(2023.10))
+* Hired as a Senior Manager by SKhynix, Icheon-si, Korea (2018.02-Up to now(2023.11))
 
 Some theoretical physics (in korean):
 * 초급물리학 (Elementary Physics)
   * [ver. 0.4 by 2023.10.04](/physics/elementary_v0_4.md)
   * [ver. 0.45 by 2023.10.05](/physics/elementary_v0_45.md)
   * [ver. 0.5 by 2023.10.18](/physics/elementary_v0_5.md)
-  * [ver. 0.55](/physics/elementary_v0_55.md)
+  * [ver. 0.55 by 2023.11.01](/physics/elementary_v0_55.md)
 * 고급물리학 (Advanced Physics)
   * [under working](/physics/advanced.md)
 
