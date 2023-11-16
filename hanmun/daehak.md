@@ -177,7 +177,7 @@
 
 此謂知之至也。  
 차위지지지야  
-> 若追所意 其若君君臣臣之類 而今亡失
-> 약추소의 기약군군신신지류 이금망실
+> 若追所意 其若君君臣臣之類 而今亡失  
+> 약추소의 기약군군신신지류 이금망실  
 
 * Reference text: [here](https://ctext.org/si-shu-zhang-ju-ji-zhu/da-xue-zhang-ju1/zh)
