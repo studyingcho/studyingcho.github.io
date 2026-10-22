@@ -13,27 +13,4 @@ This is how I have grown up:
 * Studied in Sangsan High School, Jeonju-si, Korea (2006.03-2008.03)
 * Achieved an Undergraduate Degree at KAIST, Daejeon, Korea (2008.02-2012.02)
 * Got a Degree of Ph.D. at KAIST, Daejeon, Korea (2012.02-2018.02)
-* Hired as a Senior Manager by SKhynix, Icheon-si, Korea (2018.02-Up to now(2023.11))
-
-Some theoretical physics (in korean):
-* 초급물리학 (Elementary Physics)
-  * [ver. 0.4 by 2023.10.04](/physics/elementary_v0_4.md)
-  * [ver. 0.45 by 2023.10.05](/physics/elementary_v0_45.md)
-  * [ver. 0.5 by 2023.10.18](/physics/elementary_v0_5.md)
-  * [ver. 0.55 by 2023.11.01](/physics/elementary_v0_55.md)
-  * [under working](/physics/elementary.md)
-* 고급물리학 (Advanced Physics)
-  * [under working](/physics/advanced.md)
-
-Some classical texts written by the old chinese characters (with korean pronounciation):
-* 心經 (Heart Mind Classic, 심경)
-  * [心經略章심경약장 (ver. 1) by 2023.09.27](/hanmun/simgyoung_v1.md)
-  * [心經正要심경정요 (under working)](/hanmun/simgyoung.md)
-* 通書 (The All-Embracing Book, 통서)
-  * [通書衍釋통서연석 (ver. 1) by 2023.11.07](/hanmun/tongseo_v1.md)
-* 擊蒙要訣 (The Secret of Expelling Ignorance, 격몽요결)
-  * [擊蒙要訣校補격몽요결교보 (under working)](/hanmun/gyukmong.md)
-* 孝經 (Classic of Filial Piety, 효경)
-  * [孝經普評효경보평 (ver. 1) by 2023.10.16](/hanmun/hyogyoung_v1.md)
-* 大學 (the Great Learning, 대학)
-  * [大學章句硏補대학장구연보 (under working)](/hanmun/daehak.md)
+* Hired as a Senior Manager by SKhynix, Icheon-si, Korea (2018.02-Up to now(2026.10))
